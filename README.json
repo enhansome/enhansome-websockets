@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 33208063,
                 "language": "Go",
-                "last_commit": "2026-08-23T05:38:42Z",
+                "last_commit": "2026-08-24T04:34:23Z",
                 "owner": "centrifugal",
                 "repo": "centrifugo",
-                "stars": 10651
+                "stars": 10658
               }
             },
             {
@@ -96,7 +96,7 @@
                 "archived": false,
                 "id": 5414488,
                 "language": "C",
-                "last_commit": "2026-08-20T08:04:42Z",
+                "last_commit": "2026-08-24T07:53:30Z",
                 "owner": "cesanta",
                 "repo": "mongoose",
                 "stars": 13007
@@ -114,7 +114,7 @@
                 "last_commit": "2026-08-01T10:04:33Z",
                 "owner": "civetweb",
                 "repo": "civetweb",
-                "stars": 3439
+                "stars": 3441
               }
             },
             {
@@ -196,7 +196,7 @@
                 "last_commit": "2026-08-18T11:11:33Z",
                 "owner": "uNetworking",
                 "repo": "uWebSockets",
-                "stars": 18965
+                "stars": 18966
               }
             },
             {
@@ -208,10 +208,10 @@
                 "archived": false,
                 "id": 131236938,
                 "language": "C++",
-                "last_commit": "2026-08-20T03:17:13Z",
+                "last_commit": "2026-08-24T07:27:10Z",
                 "owner": "drogonframework",
                 "repo": "drogon",
-                "stars": 14202
+                "stars": 14205
               }
             },
             {
@@ -226,7 +226,7 @@
                 "last_commit": "2026-08-21T11:12:04Z",
                 "owner": "pocoproject",
                 "repo": "poco",
-                "stars": 9477
+                "stars": 9478
               }
             },
             {
@@ -256,7 +256,7 @@
                 "last_commit": "2026-05-04T14:27:26Z",
                 "owner": "zaphoyd",
                 "repo": "websocketpp",
-                "stars": 7713
+                "stars": 7714
               }
             },
             {
@@ -268,7 +268,7 @@
                 "archived": false,
                 "id": 146397768,
                 "language": "C",
-                "last_commit": "2026-08-21T09:11:32Z",
+                "last_commit": "2026-08-24T05:20:20Z",
                 "owner": "ithewei",
                 "repo": "libhv",
                 "stars": 7536
@@ -331,7 +331,7 @@
                 "last_commit": "2026-08-18T01:13:49Z",
                 "owner": "machinezone",
                 "repo": "IXWebSocket",
-                "stars": 788
+                "stars": 789
               }
             },
             {
@@ -471,7 +471,7 @@
                 "id": 106484744,
                 "language": "C#",
                 "last_commit": "2018-10-15T13:08:58Z",
-                "owner": "dajuric",
+                "owner": "branch-predict",
                 "repo": "websocket-rpc",
                 "stars": 142
               }
@@ -607,7 +607,7 @@
                 "last_commit": "2026-08-21T13:40:11Z",
                 "owner": "phoenixframework",
                 "repo": "phoenix",
-                "stars": 23128
+                "stars": 23126
               }
             },
             {
@@ -704,7 +704,7 @@
                 "last_commit": "2026-07-28T08:40:44Z",
                 "owner": "ninenines",
                 "repo": "gun",
-                "stars": 950
+                "stars": 949
               }
             },
             {
@@ -756,7 +756,7 @@
                 "last_commit": "2025-03-19T13:29:08Z",
                 "owner": "gorilla",
                 "repo": "websocket",
-                "stars": 24853
+                "stars": 24854
               }
             },
             {
@@ -816,7 +816,7 @@
                 "last_commit": "2026-06-15T03:38:49Z",
                 "owner": "coder",
                 "repo": "websocket",
-                "stars": 5422
+                "stars": 5426
               }
             },
             {
@@ -873,7 +873,7 @@
                 "archived": false,
                 "id": 122386753,
                 "language": "Go",
-                "last_commit": "2026-08-22T07:58:24Z",
+                "last_commit": "2026-08-23T09:52:46Z",
                 "owner": "centrifugal",
                 "repo": "centrifuge",
                 "stars": 1463
@@ -903,7 +903,7 @@
                 "archived": false,
                 "id": 1135473716,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T08:11:05Z",
+                "last_commit": "2026-08-24T08:31:07Z",
                 "owner": "kubestellar",
                 "repo": "console",
                 "stars": 127
@@ -1012,7 +1012,7 @@
                     "last_commit": "2026-08-21T05:13:50Z",
                     "owner": "taoensso",
                     "repo": "sente",
-                    "stars": 1790
+                    "stars": 1791
                   }
                 },
                 {
@@ -1046,10 +1046,10 @@
                     "archived": false,
                     "id": 1064563,
                     "language": "Java",
-                    "last_commit": "2026-08-20T17:36:04Z",
+                    "last_commit": "2026-08-24T05:03:52Z",
                     "owner": "netty",
                     "repo": "netty",
-                    "stars": 35033
+                    "stars": 35034
                   }
                 },
                 {
@@ -1064,7 +1064,7 @@
                     "last_commit": "2026-08-17T20:31:36Z",
                     "owner": "eclipse-vertx",
                     "repo": "vert.x",
-                    "stars": 14686
+                    "stars": 14687
                   }
                 },
                 {
@@ -1079,7 +1079,7 @@
                     "last_commit": "2026-01-13T21:24:14Z",
                     "owner": "TooTallNate",
                     "repo": "Java-WebSocket",
-                    "stars": 10807
+                    "stars": 10806
                   }
                 },
                 {
@@ -1106,7 +1106,7 @@
                     "archived": false,
                     "id": 2045207,
                     "language": "Java",
-                    "last_commit": "2026-08-23T02:26:08Z",
+                    "last_commit": "2026-08-24T06:41:03Z",
                     "owner": "jetty",
                     "repo": "jetty.project",
                     "stars": 4090
@@ -1121,7 +1121,7 @@
                     "archived": false,
                     "id": 749137,
                     "language": "Java",
-                    "last_commit": "2026-08-22T23:49:17Z",
+                    "last_commit": "2026-08-24T06:37:11Z",
                     "owner": "Atmosphere",
                     "repo": "atmosphere",
                     "stars": 3795
@@ -1139,7 +1139,7 @@
                     "last_commit": "2026-08-14T19:06:33Z",
                     "owner": "undertow-io",
                     "repo": "undertow",
-                    "stars": 3758
+                    "stars": 3759
                   }
                 },
                 {
@@ -1218,10 +1218,10 @@
                     "archived": false,
                     "id": 40136600,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-21T13:46:20Z",
+                    "last_commit": "2026-08-24T08:16:59Z",
                     "owner": "ktorio",
                     "repo": "ktor",
-                    "stars": 14500
+                    "stars": 14499
                   }
                 },
                 {
@@ -1255,10 +1255,10 @@
                     "archived": false,
                     "id": 3692188,
                     "language": "Scala",
-                    "last_commit": "2026-08-21T17:16:46Z",
+                    "last_commit": "2026-08-24T01:20:09Z",
                     "owner": "http4s",
                     "repo": "http4s",
-                    "stars": 2625
+                    "stars": 2626
                   }
                 },
                 {
@@ -1270,7 +1270,7 @@
                     "archived": false,
                     "id": 339799160,
                     "language": "Scala",
-                    "last_commit": "2026-08-22T00:49:33Z",
+                    "last_commit": "2026-08-23T18:06:32Z",
                     "owner": "zio",
                     "repo": "zio-http",
                     "stars": 870
@@ -1285,7 +1285,7 @@
                     "archived": false,
                     "id": 559858016,
                     "language": "Scala",
-                    "last_commit": "2026-08-22T21:20:42Z",
+                    "last_commit": "2026-08-24T02:54:02Z",
                     "owner": "apache",
                     "repo": "pekko-http",
                     "stars": 194
@@ -1367,7 +1367,7 @@
                 "last_commit": "2026-08-13T07:38:51Z",
                 "owner": "websockets",
                 "repo": "ws",
-                "stars": 22794
+                "stars": 22793
               }
             },
             {
@@ -1382,7 +1382,7 @@
                 "last_commit": "2026-07-11T07:19:45Z",
                 "owner": "uNetworking",
                 "repo": "uWebSockets.js",
-                "stars": 9144
+                "stars": 9146
               }
             },
             {
@@ -1397,7 +1397,7 @@
                 "last_commit": "2026-01-29T16:04:37Z",
                 "owner": "partykit",
                 "repo": "partykit",
-                "stars": 5688
+                "stars": 5690
               }
             },
             {
@@ -1442,7 +1442,7 @@
                 "last_commit": "2024-01-20T17:07:08Z",
                 "owner": "lukeed",
                 "repo": "sockette",
-                "stars": 2467
+                "stars": 2468
               }
             },
             {
@@ -1651,7 +1651,7 @@
                 "last_commit": "2026-08-19T08:58:11Z",
                 "owner": "fastapi",
                 "repo": "fastapi",
-                "stars": 101769
+                "stars": 101802
               }
             },
             {
@@ -1663,10 +1663,10 @@
                 "archived": false,
                 "id": 13258039,
                 "language": "Python",
-                "last_commit": "2026-08-23T04:25:43Z",
+                "last_commit": "2026-08-24T02:18:27Z",
                 "owner": "aio-libs",
                 "repo": "aiohttp",
-                "stars": 16525
+                "stars": 16527
               }
             },
             {
@@ -1678,7 +1678,7 @@
                 "archived": false,
                 "id": 9113587,
                 "language": "Python",
-                "last_commit": "2026-08-23T05:45:15Z",
+                "last_commit": "2026-08-24T07:40:52Z",
                 "owner": "python-websockets",
                 "repo": "websockets",
                 "stars": 5713
@@ -1711,7 +1711,7 @@
                 "last_commit": "2026-08-19T21:49:37Z",
                 "owner": "websocket-client",
                 "repo": "websocket-client",
-                "stars": 3710
+                "stars": 3709
               }
             },
             {
@@ -1995,7 +1995,7 @@
                 "last_commit": "2026-08-20T16:51:59Z",
                 "owner": "tokio-rs",
                 "repo": "axum",
-                "stars": 26928
+                "stars": 26934
               }
             },
             {
@@ -2010,7 +2010,7 @@
                 "last_commit": "2026-07-28T15:25:12Z",
                 "owner": "seanmonstar",
                 "repo": "warp",
-                "stars": 10358
+                "stars": 10360
               }
             },
             {
@@ -2040,7 +2040,7 @@
                 "last_commit": "2026-07-11T13:02:02Z",
                 "owner": "snapview",
                 "repo": "tokio-tungstenite",
-                "stars": 2497
+                "stars": 2498
               }
             },
             {
@@ -2055,7 +2055,7 @@
                 "last_commit": "2026-07-11T12:10:26Z",
                 "owner": "snapview",
                 "repo": "tungstenite-rs",
-                "stars": 2385
+                "stars": 2384
               }
             },
             {
@@ -2112,7 +2112,7 @@
                 "archived": false,
                 "id": 684042595,
                 "language": "Rust",
-                "last_commit": "2026-08-14T18:12:56Z",
+                "last_commit": "2026-08-23T22:12:16Z",
                 "owner": "c410-f3r",
                 "repo": "wtx",
                 "stars": 399
@@ -2194,7 +2194,7 @@
                 "archived": false,
                 "id": 120498971,
                 "language": "Swift",
-                "last_commit": "2026-08-21T11:57:22Z",
+                "last_commit": "2026-08-24T04:44:44Z",
                 "owner": "apple",
                 "repo": "swift-nio",
                 "stars": 8508
@@ -2212,7 +2212,7 @@
                 "last_commit": "2024-10-01T16:33:03Z",
                 "owner": "socketio",
                 "repo": "socket.io-client-swift",
-                "stars": 5292
+                "stars": 5293
               }
             },
             {
@@ -2227,7 +2227,7 @@
                 "last_commit": "2026-08-23T02:20:03Z",
                 "owner": "hummingbird-project",
                 "repo": "hummingbird",
-                "stars": 1873
+                "stars": 1875
               }
             },
             {
@@ -2264,7 +2264,7 @@
                 "last_commit": "2026-08-18T04:47:38Z",
                 "owner": "zerodytrash",
                 "repo": "TikTok-Live-Connector",
-                "stars": 2126
+                "stars": 2127
               }
             },
             {
@@ -2279,7 +2279,7 @@
                 "last_commit": "2026-08-18T04:26:25Z",
                 "owner": "isaackogan",
                 "repo": "TikTokLive",
-                "stars": 1531
+                "stars": 1533
               }
             },
             {
@@ -2356,7 +2356,7 @@
             "last_commit": "2026-08-20T15:07:59Z",
             "owner": "joewalnes",
             "repo": "websocketd",
-            "stars": 17467
+            "stars": 17468
           }
         },
         {
@@ -2371,7 +2371,7 @@
             "last_commit": "2026-08-13T10:17:56Z",
             "owner": "vi",
             "repo": "websocat",
-            "stars": 8671
+            "stars": 8673
           }
         },
         {
@@ -2514,7 +2514,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T08:13:22.522Z",
+    "last_updated": "2026-08-24T08:31:51.629Z",
     "original_repository": "facundofarias/awesome-websockets",
     "original_repository_id": 74018561,
     "original_repository_sha": "fb23eb45225f0585aa6d02773f42eecc78ee8e3a",
