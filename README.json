@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-24T04:34:23Z",
                 "owner": "centrifugal",
                 "repo": "centrifugo",
-                "stars": 10658
+                "stars": 10659
               }
             },
             {
@@ -211,7 +211,7 @@
                 "last_commit": "2026-08-24T07:27:10Z",
                 "owner": "drogonframework",
                 "repo": "drogon",
-                "stars": 14205
+                "stars": 14204
               }
             },
             {
@@ -223,7 +223,7 @@
                 "archived": false,
                 "id": 6376337,
                 "language": "C++",
-                "last_commit": "2026-08-21T11:12:04Z",
+                "last_commit": "2026-08-24T13:34:26Z",
                 "owner": "pocoproject",
                 "repo": "poco",
                 "stars": 9478
@@ -271,7 +271,7 @@
                 "last_commit": "2026-08-24T05:20:20Z",
                 "owner": "ithewei",
                 "repo": "libhv",
-                "stars": 7536
+                "stars": 7537
               }
             },
             {
@@ -283,7 +283,7 @@
                 "archived": false,
                 "id": 144329209,
                 "language": "C++",
-                "last_commit": "2026-08-20T13:09:18Z",
+                "last_commit": "2026-08-24T13:16:18Z",
                 "owner": "CrowCpp",
                 "repo": "Crow",
                 "stars": 4954
@@ -619,7 +619,7 @@
                 "archived": false,
                 "id": 148402802,
                 "language": "Elixir",
-                "last_commit": "2026-08-21T18:26:29Z",
+                "last_commit": "2026-08-24T09:45:09Z",
                 "owner": "phoenixframework",
                 "repo": "phoenix_live_view",
                 "stars": 6826
@@ -771,7 +771,7 @@
                 "last_commit": "2026-02-12T17:07:49Z",
                 "owner": "gobwas",
                 "repo": "ws",
-                "stars": 6464
+                "stars": 6465
               }
             },
             {
@@ -816,7 +816,7 @@
                 "last_commit": "2026-06-15T03:38:49Z",
                 "owner": "coder",
                 "repo": "websocket",
-                "stars": 5426
+                "stars": 5427
               }
             },
             {
@@ -903,7 +903,7 @@
                 "archived": false,
                 "id": 1135473716,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T08:31:07Z",
+                "last_commit": "2026-08-24T10:52:39Z",
                 "owner": "kubestellar",
                 "repo": "console",
                 "stars": 127
@@ -1046,7 +1046,7 @@
                     "archived": false,
                     "id": 1064563,
                     "language": "Java",
-                    "last_commit": "2026-08-24T05:03:52Z",
+                    "last_commit": "2026-08-24T13:49:19Z",
                     "owner": "netty",
                     "repo": "netty",
                     "stars": 35034
@@ -1106,7 +1106,7 @@
                     "archived": false,
                     "id": 2045207,
                     "language": "Java",
-                    "last_commit": "2026-08-24T06:41:03Z",
+                    "last_commit": "2026-08-24T12:33:31Z",
                     "owner": "jetty",
                     "repo": "jetty.project",
                     "stars": 4090
@@ -1124,7 +1124,7 @@
                     "last_commit": "2026-08-24T06:37:11Z",
                     "owner": "Atmosphere",
                     "repo": "atmosphere",
-                    "stars": 3795
+                    "stars": 3796
                   }
                 },
                 {
@@ -1218,7 +1218,7 @@
                     "archived": false,
                     "id": 40136600,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-24T08:16:59Z",
+                    "last_commit": "2026-08-24T13:54:51Z",
                     "owner": "ktorio",
                     "repo": "ktor",
                     "stars": 14499
@@ -1285,7 +1285,7 @@
                     "archived": false,
                     "id": 559858016,
                     "language": "Scala",
-                    "last_commit": "2026-08-24T02:54:02Z",
+                    "last_commit": "2026-08-24T11:18:44Z",
                     "owner": "apache",
                     "repo": "pekko-http",
                     "stars": 194
@@ -1651,7 +1651,7 @@
                 "last_commit": "2026-08-19T08:58:11Z",
                 "owner": "fastapi",
                 "repo": "fastapi",
-                "stars": 101802
+                "stars": 101814
               }
             },
             {
@@ -1663,7 +1663,7 @@
                 "archived": false,
                 "id": 13258039,
                 "language": "Python",
-                "last_commit": "2026-08-24T02:18:27Z",
+                "last_commit": "2026-08-24T11:00:46Z",
                 "owner": "aio-libs",
                 "repo": "aiohttp",
                 "stars": 16527
@@ -1678,10 +1678,10 @@
                 "archived": false,
                 "id": 9113587,
                 "language": "Python",
-                "last_commit": "2026-08-24T07:40:52Z",
+                "last_commit": "2026-08-24T12:33:38Z",
                 "owner": "python-websockets",
                 "repo": "websockets",
-                "stars": 5713
+                "stars": 5714
               }
             },
             {
@@ -1828,6 +1828,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "httpuv",
+              "description": "Provides low-level socket and protocol support for WebSocket (and HTTP) servers in R. Built on top of the libuv and http-parser C libraries.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14812739,
+                "language": "C",
+                "last_commit": "2026-08-20T09:27:28Z",
+                "owner": "libuv",
+                "repo": "libuv",
+                "stars": 27127
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "R"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "websocket-rails",
               "description": "Plug and play websocket support for ruby on rails.",
               "children": [],
@@ -1880,7 +1902,7 @@
                 "archived": false,
                 "id": 692113941,
                 "language": "Ruby",
-                "last_commit": "2026-08-19T21:32:23Z",
+                "last_commit": "2026-08-24T10:51:04Z",
                 "owner": "rage-rb",
                 "repo": "rage",
                 "stars": 1407
@@ -2022,7 +2044,7 @@
                 "archived": false,
                 "id": 237348733,
                 "language": "Rust",
-                "last_commit": "2026-08-23T07:16:03Z",
+                "last_commit": "2026-08-24T13:04:50Z",
                 "owner": "ntex-rs",
                 "repo": "ntex",
                 "stars": 2531
@@ -2264,7 +2286,7 @@
                 "last_commit": "2026-08-18T04:47:38Z",
                 "owner": "zerodytrash",
                 "repo": "TikTok-Live-Connector",
-                "stars": 2127
+                "stars": 2128
               }
             },
             {
@@ -2386,7 +2408,7 @@
             "last_commit": "2025-05-03T17:06:05Z",
             "owner": "websockets",
             "repo": "wscat",
-            "stars": 2771
+            "stars": 2772
           }
         },
         {
@@ -2514,7 +2536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T08:31:51.629Z",
+    "last_updated": "2026-08-24T14:07:14.253Z",
     "original_repository": "facundofarias/awesome-websockets",
     "original_repository_id": 74018561,
     "original_repository_sha": "fb23eb45225f0585aa6d02773f42eecc78ee8e3a",
