@@ -17,8 +17,9 @@
                 "last_commit": "2026-08-26T21:03:50Z",
                 "owner": "centrifugal",
                 "repo": "centrifugo",
-                "stars": 10675
-              }
+                "stars": 10680
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "SocketCluster",
                 "repo": "socketcluster",
                 "stars": 6194
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "allinurl",
                 "repo": "gwsocket",
                 "stars": 817
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "RealTimeLogic",
                 "repo": "MinnowServer",
                 "stars": 338
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "disconnect",
                 "repo": "apache-websocket",
                 "stars": 196
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             }
           ],
           "description": null,
@@ -96,11 +101,12 @@
                 "archived": false,
                 "id": 5414488,
                 "language": "C",
-                "last_commit": "2026-08-27T08:47:06Z",
+                "last_commit": "2026-08-28T13:32:14Z",
                 "owner": "cesanta",
                 "repo": "mongoose",
-                "stars": 13010
-              }
+                "stars": 13011
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "civetweb",
                 "repo": "civetweb",
                 "stars": 3443
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "tatsuhiro-t",
                 "repo": "wslay",
                 "stars": 671
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "zhaojh329",
                 "repo": "libuwsc",
                 "stars": 291
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "mortzdk",
                 "repo": "Websocket",
                 "stars": 204
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "cjhdev",
                 "repo": "wic",
                 "stars": 78
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             }
           ],
           "description": null,
@@ -197,7 +208,8 @@
                 "owner": "uNetworking",
                 "repo": "uWebSockets",
                 "stars": 18967
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -212,7 +224,8 @@
                 "owner": "drogonframework",
                 "repo": "drogon",
                 "stars": 14220
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -226,8 +239,9 @@
                 "last_commit": "2026-08-25T13:58:07Z",
                 "owner": "pocoproject",
                 "repo": "poco",
-                "stars": 9481
-              }
+                "stars": 9483
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -242,7 +256,8 @@
                 "owner": "oatpp",
                 "repo": "oatpp",
                 "stars": 8647
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -256,8 +271,9 @@
                 "last_commit": "2026-05-04T14:27:26Z",
                 "owner": "zaphoyd",
                 "repo": "websocketpp",
-                "stars": 7717
-              }
+                "stars": 7718
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -271,8 +287,9 @@
                 "last_commit": "2026-08-24T05:20:20Z",
                 "owner": "ithewei",
                 "repo": "libhv",
-                "stars": 7539
-              }
+                "stars": 7541
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -286,8 +303,9 @@
                 "last_commit": "2026-08-27T12:46:27Z",
                 "owner": "CrowCpp",
                 "repo": "Crow",
-                "stars": 4954
-              }
+                "stars": 4952
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -301,8 +319,9 @@
                 "last_commit": "2026-08-25T04:31:01Z",
                 "owner": "boostorg",
                 "repo": "beast",
-                "stars": 4820
-              }
+                "stars": 4821
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -317,7 +336,8 @@
                 "owner": "eidheim",
                 "repo": "Simple-WebSocket-Server",
                 "stars": 810
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -331,8 +351,9 @@
                 "last_commit": "2026-08-18T01:13:49Z",
                 "owner": "machinezone",
                 "repo": "IXWebSocket",
-                "stars": 789
-              }
+                "stars": 790
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -347,7 +368,8 @@
                 "owner": "ITpC",
                 "repo": "LAppS",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             }
           ],
           "description": null,
@@ -369,7 +391,8 @@
                 "owner": "sta",
                 "repo": "websocket-sharp",
                 "stars": 6075
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -384,7 +407,8 @@
                 "owner": "statianzo",
                 "repo": "Fleck",
                 "stars": 2439
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -399,7 +423,8 @@
                 "owner": "StackExchange",
                 "repo": "NetGain",
                 "stars": 930
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -414,7 +439,8 @@
                 "owner": "Marfusios",
                 "repo": "websocket-client",
                 "stars": 757
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -429,7 +455,8 @@
                 "owner": "radu-matei",
                 "repo": "websocket-manager",
                 "stars": 455
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -444,7 +471,8 @@
                 "owner": "aspnet",
                 "repo": "WebSockets",
                 "stars": 356
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -459,7 +487,8 @@
                 "owner": "ninjasource",
                 "repo": "Ninja.WebSockets",
                 "stars": 172
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -474,7 +503,8 @@
                 "owner": "branch-predict",
                 "repo": "websocket-rpc",
                 "stars": 142
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -489,7 +519,8 @@
                 "owner": "shaunabanana",
                 "repo": "unity-websocket-server",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             }
           ],
           "description": null,
@@ -511,7 +542,8 @@
                 "owner": "vibe-d",
                 "repo": "vibe.d",
                 "stars": 1213
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -526,7 +558,8 @@
                 "owner": "adamdruppe",
                 "repo": "arsd",
                 "stars": 563
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -541,7 +574,8 @@
                 "owner": "trikko",
                 "repo": "serverino",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -556,7 +590,8 @@
                 "owner": "andrewlalis",
                 "repo": "handy-httpd",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -571,7 +606,8 @@
                 "owner": "Kripth",
                 "repo": "lighttp",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -586,7 +622,8 @@
                 "owner": "o3o",
                 "repo": "websocketd",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             }
           ],
           "description": null,
@@ -604,11 +641,12 @@
                 "archived": false,
                 "id": 16072585,
                 "language": "Elixir",
-                "last_commit": "2026-08-27T14:44:24Z",
+                "last_commit": "2026-08-28T17:28:53Z",
                 "owner": "phoenixframework",
                 "repo": "phoenix",
-                "stars": 23128
-              }
+                "stars": 23129
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -623,7 +661,8 @@
                 "owner": "phoenixframework",
                 "repo": "phoenix_live_view",
                 "stars": 6826
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -638,7 +677,8 @@
                 "owner": "mtrudel",
                 "repo": "bandit",
                 "stars": 1915
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -653,7 +693,8 @@
                 "owner": "dominicletz",
                 "repo": "websockex",
                 "stars": 559
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             }
           ],
           "description": null,
@@ -675,7 +716,8 @@
                 "owner": "ninenines",
                 "repo": "cowboy",
                 "stars": 7525
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -690,7 +732,8 @@
                 "owner": "synrc",
                 "repo": "n2o",
                 "stars": 1341
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -705,7 +748,8 @@
                 "owner": "ninenines",
                 "repo": "gun",
                 "stars": 949
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -720,7 +764,8 @@
                 "owner": "AsanaArchive",
                 "repo": "kraken",
                 "stars": 329
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -735,7 +780,8 @@
                 "owner": "sockjs",
                 "repo": "sockjs-erlang",
                 "stars": 265
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             }
           ],
           "description": null,
@@ -756,8 +802,9 @@
                 "last_commit": "2025-03-19T13:29:08Z",
                 "owner": "gorilla",
                 "repo": "websocket",
-                "stars": 24858
-              }
+                "stars": 24861
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -772,7 +819,8 @@
                 "owner": "gobwas",
                 "repo": "ws",
                 "stars": 6465
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -787,7 +835,8 @@
                 "owner": "eranyanay",
                 "repo": "1m-go-websockets",
                 "stars": 5995
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -802,7 +851,8 @@
                 "owner": "googollee",
                 "repo": "go-socket.io",
                 "stars": 5779
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -816,8 +866,9 @@
                 "last_commit": "2026-06-15T03:38:49Z",
                 "owner": "coder",
                 "repo": "websocket",
-                "stars": 5436
-              }
+                "stars": 5439
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -832,7 +883,8 @@
                 "owner": "olahol",
                 "repo": "melody",
                 "stars": 4083
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -847,7 +899,8 @@
                 "owner": "lesismal",
                 "repo": "nbio",
                 "stars": 2755
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -862,7 +915,8 @@
                 "owner": "lxzan",
                 "repo": "gws",
                 "stars": 1796
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -877,7 +931,8 @@
                 "owner": "centrifugal",
                 "repo": "centrifuge",
                 "stars": 1465
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -892,7 +947,8 @@
                 "owner": "gofiber",
                 "repo": "websocket",
                 "stars": 287
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -903,11 +959,12 @@
                 "archived": false,
                 "id": 1135473716,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T16:01:16Z",
+                "last_commit": "2026-08-28T19:26:10Z",
                 "owner": "kubestellar",
                 "repo": "console",
                 "stars": 129
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -922,7 +979,8 @@
                 "owner": "antlabs",
                 "repo": "greatws",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -937,7 +995,8 @@
                 "owner": "RobertWHurst",
                 "repo": "Velaros",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             }
           ],
           "description": null,
@@ -959,7 +1018,8 @@
                 "owner": "jaspervdj",
                 "repo": "websockets",
                 "stars": 416
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -974,7 +1034,8 @@
                 "owner": "o3",
                 "repo": "n2o",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             }
           ],
           "description": null,
@@ -998,7 +1059,8 @@
                     "owner": "http-kit",
                     "repo": "http-kit",
                     "stars": 2565
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:37:29.261Z"
                 },
                 {
                   "node_type": "item",
@@ -1013,7 +1075,8 @@
                     "owner": "taoensso",
                     "repo": "sente",
                     "stars": 1791
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:37:29.261Z"
                 },
                 {
                   "node_type": "item",
@@ -1028,7 +1091,8 @@
                     "owner": "jarohen",
                     "repo": "chord",
                     "stars": 442
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:37:29.261Z"
                 }
               ],
               "description": null,
@@ -1046,11 +1110,12 @@
                     "archived": false,
                     "id": 1064563,
                     "language": "Java",
-                    "last_commit": "2026-08-27T18:12:10Z",
+                    "last_commit": "2026-08-28T14:17:22Z",
                     "owner": "netty",
                     "repo": "netty",
-                    "stars": 35034
-                  }
+                    "stars": 35035
+                  },
+                  "first_seen": "2026-08-28T19:37:29.261Z"
                 },
                 {
                   "node_type": "item",
@@ -1061,11 +1126,12 @@
                     "archived": false,
                     "id": 1911523,
                     "language": "Java",
-                    "last_commit": "2026-08-25T16:10:24Z",
+                    "last_commit": "2026-08-28T10:09:44Z",
                     "owner": "eclipse-vertx",
                     "repo": "vert.x",
                     "stars": 14686
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:37:29.261Z"
                 },
                 {
                   "node_type": "item",
@@ -1080,7 +1146,8 @@
                     "owner": "TooTallNate",
                     "repo": "Java-WebSocket",
                     "stars": 10805
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:37:29.261Z"
                 },
                 {
                   "node_type": "item",
@@ -1094,8 +1161,9 @@
                     "last_commit": "2026-08-15T16:29:24Z",
                     "owner": "javalin",
                     "repo": "javalin",
-                    "stars": 8341
-                  }
+                    "stars": 8342
+                  },
+                  "first_seen": "2026-08-28T19:37:29.261Z"
                 },
                 {
                   "node_type": "item",
@@ -1106,11 +1174,12 @@
                     "archived": false,
                     "id": 2045207,
                     "language": "Java",
-                    "last_commit": "2026-08-27T16:07:03Z",
+                    "last_commit": "2026-08-28T16:41:34Z",
                     "owner": "jetty",
                     "repo": "jetty.project",
-                    "stars": 4090
-                  }
+                    "stars": 4091
+                  },
+                  "first_seen": "2026-08-28T19:37:29.261Z"
                 },
                 {
                   "node_type": "item",
@@ -1121,11 +1190,12 @@
                     "archived": false,
                     "id": 749137,
                     "language": "Java",
-                    "last_commit": "2026-08-26T00:00:29Z",
+                    "last_commit": "2026-08-28T16:10:42Z",
                     "owner": "Atmosphere",
                     "repo": "atmosphere",
                     "stars": 3796
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:37:29.261Z"
                 },
                 {
                   "node_type": "item",
@@ -1140,7 +1210,8 @@
                     "owner": "undertow-io",
                     "repo": "undertow",
                     "stars": 3760
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:37:29.261Z"
                 },
                 {
                   "node_type": "item",
@@ -1155,7 +1226,8 @@
                     "owner": "TakahikoKawasaki",
                     "repo": "nv-websocket-client",
                     "stars": 2052
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:37:29.261Z"
                 },
                 {
                   "node_type": "item",
@@ -1170,7 +1242,8 @@
                     "owner": "webbit",
                     "repo": "webbit",
                     "stars": 818
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:37:29.261Z"
                 },
                 {
                   "node_type": "item",
@@ -1185,7 +1258,8 @@
                     "owner": "eclipse-ee4j",
                     "repo": "tyrus",
                     "stars": 128
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:37:29.261Z"
                 }
               ],
               "description": null,
@@ -1206,8 +1280,9 @@
                     "last_commit": "2026-08-27T03:27:47Z",
                     "owner": "lysine-dev",
                     "repo": "okhttp",
-                    "stars": 47055
-                  }
+                    "stars": 47056
+                  },
+                  "first_seen": "2026-08-28T19:37:29.261Z"
                 },
                 {
                   "node_type": "item",
@@ -1218,11 +1293,12 @@
                     "archived": false,
                     "id": 40136600,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-27T14:55:07Z",
+                    "last_commit": "2026-08-28T16:13:09Z",
                     "owner": "ktorio",
                     "repo": "ktor",
-                    "stars": 14503
-                  }
+                    "stars": 14504
+                  },
+                  "first_seen": "2026-08-28T19:37:29.261Z"
                 },
                 {
                   "node_type": "item",
@@ -1237,7 +1313,8 @@
                     "owner": "Tinder",
                     "repo": "Scarlet",
                     "stars": 3253
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:37:29.261Z"
                 }
               ],
               "description": null,
@@ -1255,11 +1332,12 @@
                     "archived": false,
                     "id": 3692188,
                     "language": "Scala",
-                    "last_commit": "2026-08-27T14:10:47Z",
+                    "last_commit": "2026-08-28T04:06:39Z",
                     "owner": "http4s",
                     "repo": "http4s",
-                    "stars": 2626
-                  }
+                    "stars": 2627
+                  },
+                  "first_seen": "2026-08-28T19:37:29.261Z"
                 },
                 {
                   "node_type": "item",
@@ -1274,7 +1352,8 @@
                     "owner": "zio",
                     "repo": "zio-http",
                     "stars": 871
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:37:29.261Z"
                 },
                 {
                   "node_type": "item",
@@ -1289,7 +1368,8 @@
                     "owner": "apache",
                     "repo": "pekko-http",
                     "stars": 196
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:37:29.261Z"
                 },
                 {
                   "node_type": "item",
@@ -1304,7 +1384,8 @@
                     "owner": "finagle",
                     "repo": "finagle-websocket",
                     "stars": 37
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:37:29.261Z"
                 }
               ],
               "description": null,
@@ -1327,11 +1408,12 @@
                 "archived": false,
                 "id": 75249739,
                 "language": "Julia",
-                "last_commit": "2026-08-22T18:00:52Z",
+                "last_commit": "2026-08-28T18:50:28Z",
                 "owner": "JuliaWeb",
                 "repo": "HTTP.jl",
                 "stars": 687
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -1346,7 +1428,8 @@
                 "owner": "JuliaWeb",
                 "repo": "WebSockets.jl",
                 "stars": 162
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             }
           ],
           "description": null,
@@ -1367,8 +1450,9 @@
                 "last_commit": "2026-08-13T07:38:51Z",
                 "owner": "websockets",
                 "repo": "ws",
-                "stars": 22792
-              }
+                "stars": 22793
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -1382,8 +1466,9 @@
                 "last_commit": "2026-07-11T07:19:45Z",
                 "owner": "uNetworking",
                 "repo": "uWebSockets.js",
-                "stars": 9147
-              }
+                "stars": 9148
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -1398,7 +1483,8 @@
                 "owner": "partykit",
                 "repo": "partykit",
                 "stars": 5693
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -1412,8 +1498,9 @@
                 "last_commit": "2025-03-03T10:28:55Z",
                 "owner": "soketi",
                 "repo": "soketi",
-                "stars": 5633
-              }
+                "stars": 5634
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -1428,7 +1515,8 @@
                 "owner": "theturtle32",
                 "repo": "WebSocket-Node",
                 "stars": 3782
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -1443,7 +1531,8 @@
                 "owner": "lukeed",
                 "repo": "sockette",
                 "stars": 2468
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -1458,7 +1547,8 @@
                 "owner": "sockjs",
                 "repo": "sockjs-node",
                 "stars": 2101
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -1473,7 +1563,8 @@
                 "owner": "enisdenjo",
                 "repo": "graphql-ws",
                 "stars": 1871
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -1488,7 +1579,8 @@
                 "owner": "sitegui",
                 "repo": "nodejs-websocket",
                 "stars": 736
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -1502,8 +1594,9 @@
                 "last_commit": "2026-08-06T16:32:28Z",
                 "owner": "yjs",
                 "repo": "y-websocket",
-                "stars": 711
-              }
+                "stars": 710
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -1518,7 +1611,8 @@
                 "owner": "elpheria",
                 "repo": "rpc-websockets",
                 "stars": 625
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -1533,7 +1627,8 @@
                 "owner": "faye",
                 "repo": "faye-websocket-node",
                 "stars": 613
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -1548,7 +1643,8 @@
                 "owner": "vitalets",
                 "repo": "websocket-as-promised",
                 "stars": 601
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -1563,7 +1659,8 @@
                 "owner": "bminer",
                 "repo": "ws-wrapper",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -1578,7 +1675,8 @@
                 "owner": "bminer",
                 "repo": "ws-server-wrapper",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             }
           ],
           "description": null,
@@ -1600,7 +1698,8 @@
                 "owner": "beyondcode",
                 "repo": "laravel-websockets",
                 "stars": 5073
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -1615,7 +1714,8 @@
                 "owner": "bloatless",
                 "repo": "php-websocket",
                 "stars": 587
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -1630,7 +1730,8 @@
                 "owner": "Devristo",
                 "repo": "phpws",
                 "stars": 345
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             }
           ],
           "description": null,
@@ -1651,8 +1752,9 @@
                 "last_commit": "2026-08-26T17:54:56Z",
                 "owner": "fastapi",
                 "repo": "fastapi",
-                "stars": 101882
-              }
+                "stars": 101905
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -1663,11 +1765,12 @@
                 "archived": false,
                 "id": 13258039,
                 "language": "Python",
-                "last_commit": "2026-08-27T16:09:14Z",
+                "last_commit": "2026-08-28T16:13:56Z",
                 "owner": "aio-libs",
                 "repo": "aiohttp",
-                "stars": 16529
-              }
+                "stars": 16531
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -1682,7 +1785,8 @@
                 "owner": "python-websockets",
                 "repo": "websockets",
                 "stars": 5715
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -1697,7 +1801,8 @@
                 "owner": "miguelgrinberg",
                 "repo": "python-socketio",
                 "stars": 4367
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -1712,7 +1817,8 @@
                 "owner": "websocket-client",
                 "repo": "websocket-client",
                 "stars": 3709
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -1727,7 +1833,8 @@
                 "owner": "crossbario",
                 "repo": "autobahn-python",
                 "stars": 2543
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -1741,8 +1848,9 @@
                 "last_commit": "2026-08-17T20:47:37Z",
                 "owner": "cirospaciari",
                 "repo": "socketify.py",
-                "stars": 1714
-              }
+                "stars": 1713
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -1757,7 +1865,8 @@
                 "owner": "Pithikos",
                 "repo": "python-websocket-server",
                 "stars": 1178
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -1772,7 +1881,8 @@
                 "owner": "miguelgrinberg",
                 "repo": "simple-websocket",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -1787,7 +1897,8 @@
                 "owner": "ploMP4",
                 "repo": "webrockets",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -1802,7 +1913,8 @@
                 "owner": "keijack",
                 "repo": "python-simple-http-server",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -1817,7 +1929,8 @@
                 "owner": "healeycodes",
                 "repo": "websocket-benchmarker",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             }
           ],
           "description": null,
@@ -1838,8 +1951,9 @@
                 "last_commit": "2026-08-20T09:27:28Z",
                 "owner": "libuv",
                 "repo": "libuv",
-                "stars": 27135
-              }
+                "stars": 27143
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             }
           ],
           "description": null,
@@ -1861,7 +1975,8 @@
                 "owner": "websocket-rails",
                 "repo": "websocket-rails",
                 "stars": 1715
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -1876,7 +1991,8 @@
                 "owner": "igrigorik",
                 "repo": "em-websocket",
                 "stars": 1689
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -1891,7 +2007,8 @@
                 "owner": "stevegraham",
                 "repo": "slanger",
                 "stars": 1687
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -1902,11 +2019,12 @@
                 "archived": false,
                 "id": 692113941,
                 "language": "Ruby",
-                "last_commit": "2026-08-27T12:19:42Z",
+                "last_commit": "2026-08-27T22:11:33Z",
                 "owner": "rage-rb",
                 "repo": "rage",
                 "stars": 1409
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -1921,7 +2039,8 @@
                 "owner": "chrismccord",
                 "repo": "render_sync",
                 "stars": 1385
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -1936,7 +2055,8 @@
                 "owner": "faye",
                 "repo": "faye-websocket-ruby",
                 "stars": 1059
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -1951,7 +2071,8 @@
                 "owner": "boazsegev",
                 "repo": "iodine",
                 "stars": 971
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -1966,7 +2087,8 @@
                 "owner": "imanel",
                 "repo": "websocket-ruby",
                 "stars": 464
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -1981,7 +2103,8 @@
                 "owner": "Wardrop",
                 "repo": "Scorched",
                 "stars": 275
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -1996,7 +2119,8 @@
                 "owner": "faye",
                 "repo": "websocket-driver-ruby",
                 "stars": 238
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             }
           ],
           "description": null,
@@ -2014,11 +2138,12 @@
                 "archived": false,
                 "id": 372172254,
                 "language": "Rust",
-                "last_commit": "2026-08-20T16:51:59Z",
+                "last_commit": "2026-08-28T13:01:01Z",
                 "owner": "tokio-rs",
                 "repo": "axum",
-                "stars": 26969
-              }
+                "stars": 26976
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -2033,7 +2158,8 @@
                 "owner": "seanmonstar",
                 "repo": "warp",
                 "stars": 10366
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -2044,11 +2170,12 @@
                 "archived": false,
                 "id": 237348733,
                 "language": "Rust",
-                "last_commit": "2026-08-27T06:54:50Z",
+                "last_commit": "2026-08-28T07:37:30Z",
                 "owner": "ntex-rs",
                 "repo": "ntex",
                 "stars": 2533
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -2063,7 +2190,8 @@
                 "owner": "snapview",
                 "repo": "tokio-tungstenite",
                 "stars": 2498
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -2078,7 +2206,8 @@
                 "owner": "snapview",
                 "repo": "tungstenite-rs",
                 "stars": 2384
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -2093,7 +2222,8 @@
                 "owner": "websockets-rs",
                 "repo": "rust-websocket",
                 "stars": 1613
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -2108,7 +2238,8 @@
                 "owner": "denoland",
                 "repo": "fastwebsockets",
                 "stars": 1133
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -2123,7 +2254,8 @@
                 "owner": "sdroege",
                 "repo": "async-tungstenite",
                 "stars": 443
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -2138,7 +2270,8 @@
                 "owner": "c410-f3r",
                 "repo": "wtx",
                 "stars": 399
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -2153,7 +2286,8 @@
                 "owner": "http-rs",
                 "repo": "tide-websockets",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -2168,7 +2302,8 @@
                 "owner": "graphform",
                 "repo": "ratchet",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -2183,7 +2318,8 @@
                 "owner": "bitwyre",
                 "repo": "websocket_core",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             }
           ],
           "description": null,
@@ -2205,7 +2341,8 @@
                 "owner": "daltoniam",
                 "repo": "Starscream",
                 "stars": 8645
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -2216,11 +2353,12 @@
                 "archived": false,
                 "id": 120498971,
                 "language": "Swift",
-                "last_commit": "2026-08-26T08:05:24Z",
+                "last_commit": "2026-08-28T13:38:10Z",
                 "owner": "apple",
                 "repo": "swift-nio",
                 "stars": 8510
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -2235,7 +2373,8 @@
                 "owner": "socketio",
                 "repo": "socket.io-client-swift",
                 "stars": 5293
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -2250,7 +2389,8 @@
                 "owner": "hummingbird-project",
                 "repo": "hummingbird",
                 "stars": 1878
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -2265,7 +2405,8 @@
                 "owner": "vapor",
                 "repo": "websocket-kit",
                 "stars": 313
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             }
           ],
           "description": null,
@@ -2286,8 +2427,9 @@
                 "last_commit": "2026-08-18T04:47:38Z",
                 "owner": "zerodytrash",
                 "repo": "TikTok-Live-Connector",
-                "stars": 2133
-              }
+                "stars": 2134
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -2301,8 +2443,9 @@
                 "last_commit": "2026-08-18T04:26:25Z",
                 "owner": "isaackogan",
                 "repo": "TikTokLive",
-                "stars": 1535
-              }
+                "stars": 1536
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             },
             {
               "node_type": "item",
@@ -2317,7 +2460,8 @@
                 "owner": "jwdeveloper",
                 "repo": "TikTokLiveJava",
                 "stars": 211
-              }
+              },
+              "first_seen": "2026-08-28T19:37:29.261Z"
             }
           ],
           "description": null,
@@ -2343,7 +2487,8 @@
             "owner": "robtaussig",
             "repo": "react-use-websocket",
             "stars": 1886
-          }
+          },
+          "first_seen": "2026-08-28T19:37:29.261Z"
         },
         {
           "node_type": "item",
@@ -2358,7 +2503,8 @@
             "owner": "melishev",
             "repo": "wsgo",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T19:37:29.261Z"
         }
       ],
       "title": "Browser libraries"
@@ -2379,7 +2525,8 @@
             "owner": "joewalnes",
             "repo": "websocketd",
             "stars": 17466
-          }
+          },
+          "first_seen": "2026-08-28T19:37:29.261Z"
         },
         {
           "node_type": "item",
@@ -2393,8 +2540,9 @@
             "last_commit": "2026-08-13T10:17:56Z",
             "owner": "vi",
             "repo": "websocat",
-            "stars": 8674
-          }
+            "stars": 8676
+          },
+          "first_seen": "2026-08-28T19:37:29.261Z"
         },
         {
           "node_type": "item",
@@ -2409,7 +2557,8 @@
             "owner": "websockets",
             "repo": "wscat",
             "stars": 2772
-          }
+          },
+          "first_seen": "2026-08-28T19:37:29.261Z"
         },
         {
           "node_type": "item",
@@ -2424,7 +2573,8 @@
             "owner": "eliihen",
             "repo": "wsta",
             "stars": 632
-          }
+          },
+          "first_seen": "2026-08-28T19:37:29.261Z"
         },
         {
           "node_type": "item",
@@ -2439,7 +2589,8 @@
             "owner": "hashrocket",
             "repo": "ws",
             "stars": 434
-          }
+          },
+          "first_seen": "2026-08-28T19:37:29.261Z"
         },
         {
           "node_type": "item",
@@ -2454,7 +2605,8 @@
             "owner": "thehowl",
             "repo": "claws",
             "stars": 315
-          }
+          },
+          "first_seen": "2026-08-28T19:37:29.261Z"
         },
         {
           "node_type": "item",
@@ -2469,7 +2621,8 @@
             "owner": "progrium",
             "repo": "wssh",
             "stars": 267
-          }
+          },
+          "first_seen": "2026-08-28T19:37:29.261Z"
         },
         {
           "node_type": "item",
@@ -2484,7 +2637,8 @@
             "owner": "pvarentsov",
             "repo": "iola",
             "stars": 170
-          }
+          },
+          "first_seen": "2026-08-28T19:37:29.261Z"
         },
         {
           "node_type": "item",
@@ -2499,7 +2653,8 @@
             "owner": "raphael",
             "repo": "wsc",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T19:37:29.261Z"
         },
         {
           "node_type": "item",
@@ -2514,7 +2669,8 @@
             "owner": "plantain-00",
             "repo": "ws-tool",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T19:37:29.261Z"
         },
         {
           "node_type": "item",
@@ -2529,14 +2685,15 @@
             "owner": "kseo",
             "repo": "ws-cli",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T19:37:29.261Z"
         }
       ],
       "title": "Command-Line Interface (CLI) Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T18:25:25.310Z",
+    "last_updated": "2026-08-28T19:37:29.261Z",
     "original_repository_info": {
       "archived": false,
       "id": 74018561,
