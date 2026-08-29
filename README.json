@@ -12,12 +12,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably, socket.io, Phoenix.PubSub, SignalR. Set up once and forever.",
+                "homepage": "https://centrifugal.dev",
                 "id": 33208063,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T21:03:50Z",
+                "open_issues": 24,
                 "owner": "centrifugal",
                 "repo": "centrifugo",
-                "stars": 10680
+                "stars": 10680,
+                "topics": [
+                  "ably",
+                  "alternative",
+                  "eventsource",
+                  "grpc",
+                  "http-streaming",
+                  "http3",
+                  "messaging",
+                  "pubnub",
+                  "pubsub",
+                  "pusher",
+                  "real-time",
+                  "redis",
+                  "scalability",
+                  "server-sent-events",
+                  "socket-io",
+                  "sse",
+                  "streaming",
+                  "websocket",
+                  "websockets",
+                  "webtransport"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -28,12 +54,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Highly scalable realtime pub/sub and RPC framework",
+                "homepage": "https://socketcluster.io",
                 "id": 13034860,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-21T10:10:17Z",
+                "open_issues": 101,
                 "owner": "SocketCluster",
                 "repo": "socketcluster",
-                "stars": 6194
+                "stars": 6194,
+                "topics": [
+                  "docker",
+                  "framework",
+                  "javascript",
+                  "kubernetes",
+                  "nodejs",
+                  "pubsub",
+                  "realtime",
+                  "scalable",
+                  "socketcluster",
+                  "websocket",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -44,12 +87,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "fast, standalone, language-agnostic WebSocket server RFC6455 compliant",
+                "homepage": "http://gwsocket.io",
                 "id": 57865768,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-07-06T03:33:48Z",
+                "open_issues": 12,
                 "owner": "allinurl",
                 "repo": "gwsocket",
-                "stars": 817
+                "stars": 817,
+                "topics": [
+                  "c",
+                  "rfc-6455",
+                  "standalone",
+                  "websocket-server",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -60,12 +114,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A super small and fast embedded HTTP(S) WebSocket server",
+                "homepage": "https://realtimelogic.com/products/sharkssl/minnow-server/",
                 "id": 160877869,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2024-09-23T23:33:35Z",
+                "open_issues": 2,
                 "owner": "RealTimeLogic",
                 "repo": "MinnowServer",
-                "stars": 338
+                "stars": 338,
+                "topics": [
+                  "embedded",
+                  "http",
+                  "iot",
+                  "websocket-server",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -76,12 +141,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache WebSocket module",
+                "homepage": null,
                 "id": 767969,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2016-04-15T02:44:43Z",
+                "open_issues": 27,
                 "owner": "disconnect",
                 "repo": "apache-websocket",
-                "stars": 196
+                "stars": 196,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             }
@@ -99,12 +169,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Embedded web server, with TCP/IP network stack, MQTT and Websocket",
+                "homepage": "https://mongoose.ws",
                 "id": 5414488,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T13:32:14Z",
+                "open_issues": 2,
                 "owner": "cesanta",
                 "repo": "mongoose",
-                "stars": 13011
+                "stars": 13012,
+                "topics": [
+                  "embedded",
+                  "http",
+                  "iot",
+                  "mqtt",
+                  "tcp",
+                  "tcpip",
+                  "tls13",
+                  "udp",
+                  "web-server",
+                  "webserver",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -115,12 +202,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Embedded C/C++ web server",
+                "homepage": null,
                 "id": 13352949,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-01T10:04:33Z",
+                "open_issues": 239,
                 "owner": "civetweb",
                 "repo": "civetweb",
-                "stars": 3443
+                "stars": 3443,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -131,12 +223,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The WebSocket library in C",
+                "homepage": "https://tatsuhiro-t.github.io/wslay/",
                 "id": 3048163,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2022-08-25T07:26:16Z",
+                "open_issues": 32,
                 "owner": "tatsuhiro-t",
                 "repo": "wslay",
-                "stars": 671
+                "stars": 671,
+                "topics": [
+                  "c",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -147,12 +247,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Lightweight and fully asynchronous WebSocket client library based on libev",
+                "homepage": null,
                 "id": 116388230,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2022-02-21T09:55:17Z",
+                "open_issues": 10,
                 "owner": "zhaojh329",
                 "repo": "libuwsc",
-                "stars": 291
+                "stars": 291,
+                "topics": [
+                  "cyassl",
+                  "libev",
+                  "libwebsocket",
+                  "lightweight",
+                  "lua-binding",
+                  "mbedtls",
+                  "openssl",
+                  "websocket",
+                  "wolfssl"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -163,12 +278,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WSServer is a fast, configurable, and extendable WebSocket Server for UNIX systems written in C (C11).",
+                "homepage": "https://mortzdk.github.io/Websocket/",
                 "id": 9213892,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2023-09-05T13:36:44Z",
+                "open_issues": 0,
                 "owner": "mortzdk",
                 "repo": "Websocket",
-                "stars": 204
+                "stars": 204,
+                "topics": [
+                  "autobahn-testsuite",
+                  "c",
+                  "websocket",
+                  "websocket-server",
+                  "websockets",
+                  "wsserver"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -179,12 +306,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WebSockets in C for Embedded Applications",
+                "homepage": "https://cjhdev.github.io/wic_api/",
                 "id": 278076743,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2023-05-01T13:54:39Z",
+                "open_issues": 3,
                 "owner": "cjhdev",
                 "repo": "wic",
-                "stars": 78
+                "stars": 78,
+                "topics": [
+                  "embedded",
+                  "portable",
+                  "rfc6455",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             }
@@ -202,12 +339,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple, secure & standards compliant web server for the most demanding of applications",
+                "homepage": null,
                 "id": 54360307,
                 "language": "C++",
-                "last_commit": "2026-08-18T11:11:33Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T02:34:25Z",
+                "open_issues": 48,
                 "owner": "uNetworking",
                 "repo": "uWebSockets",
-                "stars": 18967
+                "stars": 18967,
+                "topics": [
+                  "commercial",
+                  "cross-platform",
+                  "http",
+                  "proxy-protocol",
+                  "pubsub",
+                  "router",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -218,12 +368,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows",
+                "homepage": null,
                 "id": 131236938,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-27T02:19:52Z",
+                "open_issues": 420,
                 "owner": "drogonframework",
                 "repo": "drogon",
-                "stars": 14220
+                "stars": 14220,
+                "topics": [
+                  "asynchronous-programming",
+                  "drogon",
+                  "http",
+                  "http-framework",
+                  "http-server",
+                  "linux",
+                  "non-blocking-io"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -234,12 +397,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.",
+                "homepage": "https://pocoproject.org",
                 "id": 6376337,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T13:58:07Z",
+                "open_issues": 136,
                 "owner": "pocoproject",
                 "repo": "poco",
-                "stars": 9483
+                "stars": 9483,
+                "topics": [
+                  "c-plus-plus",
+                  "configuration",
+                  "cross-platform",
+                  "database-access",
+                  "http-client",
+                  "http-server",
+                  "json",
+                  "logging",
+                  "mongodb-client",
+                  "networking",
+                  "poco",
+                  "redis-client",
+                  "sql",
+                  "xml"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -250,12 +433,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌱Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.",
+                "homepage": "https://oatpp.io/",
                 "id": 124976393,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-12T06:19:27Z",
+                "open_issues": 348,
                 "owner": "oatpp",
                 "repo": "oatpp",
-                "stars": 8647
+                "stars": 8647,
+                "topics": [
+                  "c-plus-plus",
+                  "cpp",
+                  "cross-platform",
+                  "iot",
+                  "microservices",
+                  "oatpp",
+                  "webframework",
+                  "webserver",
+                  "zero-dependency"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -266,12 +464,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C++ websocket client/server library",
+                "homepage": "http://www.zaphoyd.com/websocketpp",
                 "id": 2345629,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-04T14:27:26Z",
+                "open_issues": 483,
                 "owner": "zaphoyd",
                 "repo": "websocketpp",
-                "stars": 7718
+                "stars": 7718,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -282,12 +485,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔥 比libevent/libuv/asio更易用的网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket/MQTT/Redis client/server.",
+                "homepage": "https://github.com/ithewei/libhv/wiki",
                 "id": 146397768,
                 "language": "C",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-24T05:20:20Z",
+                "open_issues": 41,
                 "owner": "ithewei",
                 "repo": "libhv",
-                "stars": 7541
+                "stars": 7541,
+                "topics": [
+                  "curl",
+                  "epoll",
+                  "http-client",
+                  "http-server",
+                  "https",
+                  "iocp",
+                  "kcp",
+                  "mqtt",
+                  "openssl",
+                  "redis",
+                  "requests",
+                  "webserver",
+                  "websocket",
+                  "websocket-client",
+                  "websocket-server",
+                  "wrk"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -298,12 +523,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Fast and Easy to use microframework for the web.",
+                "homepage": "https://crowcpp.org",
                 "id": 144329209,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T12:46:27Z",
+                "open_issues": 85,
                 "owner": "CrowCpp",
                 "repo": "Crow",
-                "stars": 4952
+                "stars": 4952,
+                "topics": [
+                  "cpp",
+                  "crow",
+                  "framework",
+                  "header-only",
+                  "http",
+                  "http-server",
+                  "webserver",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -314,12 +553,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HTTP and WebSocket built on Boost.Asio in C++11",
+                "homepage": "http://www.boost.org/libs/beast",
                 "id": 10726510,
                 "language": "C++",
+                "license": "BSL-1.0",
                 "last_commit": "2026-08-25T04:31:01Z",
+                "open_issues": 106,
                 "owner": "boostorg",
                 "repo": "beast",
-                "stars": 4821
+                "stars": 4821,
+                "topics": [
+                  "asio",
+                  "async-programming",
+                  "boost",
+                  "boost-libraries",
+                  "c-plus-plus-11",
+                  "cplusplus",
+                  "http",
+                  "http-client",
+                  "http-server",
+                  "linux",
+                  "networking",
+                  "osx",
+                  "server",
+                  "ssl",
+                  "tls",
+                  "websocket",
+                  "websocket-client",
+                  "websocket-server",
+                  "websockets",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -330,12 +595,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A very simple, fast, multithreaded, platform independent WebSocket (WS) and WebSocket Secure (WSS) server and client library implemented using C++11, Boost.Asio and OpenSSL. Created to be an easy way to make WebSocket endpoints in C++.",
+                "homepage": null,
                 "id": 22543096,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2018-06-12T09:20:41Z",
+                "open_issues": 27,
                 "owner": "eidheim",
                 "repo": "Simple-WebSocket-Server",
-                "stars": 810
+                "stars": 810,
+                "topics": [
+                  "asio",
+                  "client",
+                  "cpp",
+                  "library",
+                  "server",
+                  "websocket",
+                  "websocket-secure",
+                  "ws",
+                  "wss"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -346,12 +626,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "websocket and http client and server library, with TLS support and very few dependencies",
+                "homepage": null,
                 "id": 150647867,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-18T01:13:49Z",
+                "open_issues": 70,
                 "owner": "machinezone",
                 "repo": "IXWebSocket",
-                "stars": 790
+                "stars": 790,
+                "topics": [
+                  "cpp",
+                  "http",
+                  "http-server",
+                  "websocket-client",
+                  "websocket-server",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -362,12 +654,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LAppS - Lua Application Server for micro-services with default communication over WebSockets. The fastest and most vertically scalable WebSockets server implementation ever.  Low latency C++ <-> Lua stack roundtrip.",
+                "homepage": null,
                 "id": 119301478,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2021-01-15T01:15:08Z",
+                "open_issues": 3,
                 "owner": "ITpC",
                 "repo": "LAppS",
-                "stars": 53
+                "stars": 53,
+                "topics": [
+                  "application-server",
+                  "c",
+                  "cbor",
+                  "cpp17",
+                  "json-rpc2",
+                  "lua",
+                  "micro-service-architecture",
+                  "micro-services",
+                  "websocket-server"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             }
@@ -385,12 +692,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A C# implementation of the WebSocket protocol client and server",
+                "homepage": "http://sta.github.io/websocket-sharp",
                 "id": 997491,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-03T07:34:19Z",
+                "open_issues": 559,
                 "owner": "sta",
                 "repo": "websocket-sharp",
-                "stars": 6075
+                "stars": 6075,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -401,12 +713,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C# Websocket Implementation",
+                "homepage": null,
                 "id": 1014006,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-07-03T08:18:44Z",
+                "open_issues": 83,
                 "owner": "statianzo",
                 "repo": "Fleck",
-                "stars": 2439
+                "stars": 2439,
+                "topics": [
+                  "c-sharp",
+                  "dot-net",
+                  "hacktoberfest",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -417,12 +739,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A high performance websocket server library powering Stack Overflow.",
+                "homepage": null,
                 "id": 34528276,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2019-01-08T09:08:20Z",
+                "open_issues": 15,
                 "owner": "StackExchange",
                 "repo": "NetGain",
-                "stars": 930
+                "stars": 930,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -433,12 +760,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔧 .NET/C# websocket client library",
+                "homepage": null,
                 "id": 159722346,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-05-19T12:15:28Z",
+                "open_issues": 57,
                 "owner": "Marfusios",
                 "repo": "websocket-client",
-                "stars": 757
+                "stars": 757,
+                "topics": [
+                  "client",
+                  "dotnet-core",
+                  "dotnet-standard",
+                  "websocket",
+                  "websocket-client",
+                  "websockets",
+                  "websockets-client"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -449,12 +789,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Real-Time library for ASP .NET Core",
+                "homepage": "https://radu-matei.com/blog/real-time-aspnet-core/",
                 "id": 77468034,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2020-12-31T12:59:18Z",
+                "open_issues": 34,
                 "owner": "radu-matei",
                 "repo": "websocket-manager",
-                "stars": 455
+                "stars": 455,
+                "topics": [
+                  "dotnet-core",
+                  "middleware",
+                  "real-time",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -465,12 +815,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[Archived] Implementation of the WebSocket protocol, along with client and server integration components.",
+                "homepage": null,
                 "id": 17656062,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2018-10-17T22:15:09Z",
+                "open_issues": 0,
                 "owner": "aspnet",
                 "repo": "WebSockets",
-                "stars": 356
+                "stars": 356,
+                "topics": [
+                  "aspnet-product"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -481,12 +838,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A c# implementation of System.Net.WebSockets.WebSocket for .Net Standard 2.0",
+                "homepage": null,
                 "id": 114615508,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2020-11-09T19:43:53Z",
+                "open_issues": 2,
                 "owner": "ninjasource",
                 "repo": "Ninja.WebSockets",
-                "stars": 172
+                "stars": 172,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -497,12 +859,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "WebSocket RPC library for .NET with auto JavaScript client code generation, supporting ASP.NET Core",
+                "homepage": null,
                 "id": 106484744,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2018-10-15T13:08:58Z",
+                "open_issues": 3,
                 "owner": "branch-predict",
                 "repo": "websocket-rpc",
-                "stars": 142
+                "stars": 142,
+                "topics": [
+                  "asp-net-core",
+                  "dotnet",
+                  "javascript-client",
+                  "rpc",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -513,12 +886,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple, zero-dependency WebSocket server for Unity.",
+                "homepage": null,
                 "id": 376593726,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2022-06-28T04:57:49Z",
+                "open_issues": 5,
                 "owner": "shaunabanana",
                 "repo": "unity-websocket-server",
-                "stars": 82
+                "stars": 82,
+                "topics": [
+                  "unity",
+                  "websocket",
+                  "websocket-server"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             }
@@ -536,12 +918,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official vibe.d development",
+                "homepage": null,
                 "id": 4081150,
                 "language": "D",
+                "license": "MIT",
                 "last_commit": "2026-07-04T14:36:17Z",
+                "open_issues": 451,
                 "owner": "vibe-d",
                 "repo": "vibe.d",
-                "stars": 1213
+                "stars": 1213,
+                "topics": [
+                  "async",
+                  "concurrency",
+                  "d",
+                  "dlang",
+                  "networking",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -552,12 +946,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a collection of modules that I've released over the years. Most of them stand alone, or have just one or two dependencies in here, so you don't have to download this whole repo.",
+                "homepage": "http://arsd-official.dpldocs.info/arsd.html",
                 "id": 2052937,
                 "language": "D",
+                "license": null,
                 "last_commit": "2026-06-28T14:27:19Z",
+                "open_issues": 53,
                 "owner": "adamdruppe",
                 "repo": "arsd",
-                "stars": 563
+                "stars": 563,
+                "topics": [
+                  "d"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -568,12 +969,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Small and ready-to-go http server. Support for websockets included.",
+                "homepage": "https://trikko.github.io/serverino/",
                 "id": 486284504,
                 "language": "D",
+                "license": "MIT",
                 "last_commit": "2026-05-21T17:46:36Z",
+                "open_issues": 1,
                 "owner": "trikko",
                 "repo": "serverino",
-                "stars": 79
+                "stars": 79,
+                "topics": [
+                  "d",
+                  "dlang",
+                  "http",
+                  "http-server"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -584,12 +995,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Extremely lightweight HTTP server for D.",
+                "homepage": null,
                 "id": 438768597,
                 "language": "D",
+                "license": "MIT",
                 "last_commit": "2026-04-01T22:51:14Z",
+                "open_issues": 5,
                 "owner": "andrewlalis",
                 "repo": "handy-httpd",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "beginner-friendly",
+                  "dlang",
+                  "http-server"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -600,12 +1020,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight asynchronous HTTP/WS client/server",
+                "homepage": null,
                 "id": 125772960,
                 "language": "D",
+                "license": "MIT",
                 "last_commit": "2020-07-02T17:17:30Z",
+                "open_issues": 6,
                 "owner": "Kripth",
                 "repo": "lighttp",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "client",
+                  "http",
+                  "lightweight",
+                  "server",
+                  "websocket",
+                  "ws"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -616,12 +1048,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A websocket server in D ",
+                "homepage": null,
                 "id": 409201950,
                 "language": "D",
+                "license": "MIT",
                 "last_commit": "2021-09-22T14:17:16Z",
+                "open_issues": 1,
                 "owner": "o3o",
                 "repo": "websocketd",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             }
@@ -639,12 +1076,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Peace of mind from prototype to production",
+                "homepage": "https://www.phoenixframework.org",
                 "id": 16072585,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2026-08-28T17:28:53Z",
+                "open_issues": 50,
                 "owner": "phoenixframework",
                 "repo": "phoenix",
-                "stars": 23129
+                "stars": 23129,
+                "topics": [
+                  "api-server",
+                  "distributed",
+                  "elixir",
+                  "realtime",
+                  "web-framework"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -655,12 +1103,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rich, real-time user experiences with server-rendered HTML",
+                "homepage": "https://hex.pm/packages/phoenix_live_view",
                 "id": 148402802,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2026-08-27T09:18:27Z",
+                "open_issues": 28,
                 "owner": "phoenixframework",
                 "repo": "phoenix_live_view",
-                "stars": 6826
+                "stars": 6826,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -671,12 +1124,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bandit is a pure Elixir HTTP server for Plug & WebSock applications",
+                "homepage": null,
                 "id": 220852206,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2026-08-26T13:35:49Z",
+                "open_issues": 7,
                 "owner": "mtrudel",
                 "repo": "bandit",
-                "stars": 1915
+                "stars": 1915,
+                "topics": [
+                  "elixir",
+                  "elixir-phoenix",
+                  "elixir-plug",
+                  "h2spec",
+                  "http",
+                  "http-server",
+                  "http2",
+                  "http2-server",
+                  "https",
+                  "rfc-2616",
+                  "rfc-6455",
+                  "rfc-7540",
+                  "rfc-9110",
+                  "rfc-9112",
+                  "rfc-9113",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -687,12 +1162,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Elixir Websocket Client",
+                "homepage": null,
                 "id": 82728029,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2025-12-01T13:48:14Z",
+                "open_issues": 22,
                 "owner": "dominicletz",
                 "repo": "websockex",
-                "stars": 559
+                "stars": 559,
+                "topics": [
+                  "elixir",
+                  "websocket",
+                  "websocket-client"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             }
@@ -710,12 +1194,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Small, fast, modern HTTP server for Erlang/OTP.",
+                "homepage": "https://ninenines.eu",
                 "id": 1460612,
                 "language": "Erlang",
+                "license": "ISC",
                 "last_commit": "2026-08-25T13:15:05Z",
+                "open_issues": 64,
                 "owner": "ninenines",
                 "repo": "cowboy",
-                "stars": 7525
+                "stars": 7525,
+                "topics": [
+                  "cowboy",
+                  "erlang",
+                  "functional",
+                  "high-performance",
+                  "http",
+                  "http-server",
+                  "http2",
+                  "http2-server",
+                  "http3",
+                  "http3-server",
+                  "https",
+                  "production-ready",
+                  "rest",
+                  "web",
+                  "web-framework",
+                  "websocket",
+                  "websocket-server",
+                  "websockets",
+                  "webtransport"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -726,12 +1235,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⭕ N2O: Distributed WebSocket Application Server ISO 20922",
+                "homepage": "https://ws.n2o.dev",
                 "id": 9104262,
                 "language": "Erlang",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-04T10:30:12Z",
+                "open_issues": 1,
                 "owner": "synrc",
                 "repo": "n2o",
-                "stars": 1341
+                "stars": 1341,
+                "topics": [
+                  "bert",
+                  "mqtt",
+                  "tcp",
+                  "udp",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -742,12 +1262,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.",
+                "homepage": null,
                 "id": 12277346,
                 "language": "Erlang",
+                "license": "ISC",
                 "last_commit": "2026-07-28T08:40:44Z",
+                "open_issues": 24,
                 "owner": "ninenines",
                 "repo": "gun",
-                "stars": 949
+                "stars": 949,
+                "topics": [
+                  "cowboy",
+                  "erlang",
+                  "functional",
+                  "high-performance",
+                  "http",
+                  "http-client",
+                  "http2",
+                  "http2-client",
+                  "http3-client",
+                  "https",
+                  "production-ready",
+                  "rest",
+                  "web",
+                  "websocket",
+                  "websocket-client",
+                  "websockets",
+                  "webtransport"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -758,12 +1301,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Distributed Pubsub Server for Realtime Apps",
+                "homepage": "http://asanaarchive.github.io/kraken/",
                 "id": 7445181,
                 "language": "Erlang",
+                "license": "NOASSERTION",
                 "last_commit": "2020-12-03T20:57:03Z",
+                "open_issues": 1,
                 "owner": "AsanaArchive",
                 "repo": "kraken",
-                "stars": 329
+                "stars": 329,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -774,12 +1322,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WebSocket emulation - Erlang server ",
+                "homepage": "http://sockjs.org",
                 "id": 2423306,
                 "language": "Erlang",
+                "license": "NOASSERTION",
                 "last_commit": "2017-04-04T14:20:17Z",
+                "open_issues": 19,
                 "owner": "sockjs",
                 "repo": "sockjs-erlang",
-                "stars": 265
+                "stars": 265,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             }
@@ -797,12 +1350,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",
+                "homepage": "https://gorilla.github.io",
                 "id": 13624859,
                 "language": "Go",
+                "license": "BSD-2-Clause",
                 "last_commit": "2025-03-19T13:29:08Z",
+                "open_issues": 80,
                 "owner": "gorilla",
                 "repo": "websocket",
-                "stars": 24861
+                "stars": 24862,
+                "topics": [
+                  "go",
+                  "golang",
+                  "gorilla",
+                  "gorilla-web-toolkit",
+                  "websocket",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -813,12 +1378,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tiny WebSocket library for Go.",
+                "homepage": null,
                 "id": 79746008,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-02-12T17:07:49Z",
+                "open_issues": 28,
                 "owner": "gobwas",
                 "repo": "ws",
-                "stars": 6465
+                "stars": 6465,
+                "topics": [
+                  "fast",
+                  "go",
+                  "golang",
+                  "rfc-6455",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -829,12 +1405,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "handling 1M websockets connections in Go",
+                "homepage": null,
                 "id": 169982320,
                 "language": "Go",
+                "license": "AGPL-3.0",
                 "last_commit": "2022-08-14T11:12:13Z",
+                "open_issues": 3,
                 "owner": "eranyanay",
                 "repo": "1m-go-websockets",
-                "stars": 5995
+                "stars": 5995,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -845,12 +1426,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "socket.io library for golang, a realtime application framework.",
+                "homepage": null,
                 "id": 11388110,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2024-09-29T15:16:51Z",
+                "open_issues": 0,
                 "owner": "googollee",
                 "repo": "go-socket.io",
-                "stars": 5779
+                "stars": 5779,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -861,12 +1447,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minimal and idiomatic WebSocket library for Go",
+                "homepage": null,
                 "id": 144590177,
                 "language": "Go",
+                "license": "ISC",
                 "last_commit": "2026-06-15T03:38:49Z",
+                "open_issues": 71,
                 "owner": "coder",
                 "repo": "websocket",
-                "stars": 5439
+                "stars": 5439,
+                "topics": [
+                  "go",
+                  "http2",
+                  "idiomatic",
+                  "minimal",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -877,12 +1474,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":notes: Minimalist websocket framework for Go",
+                "homepage": null,
                 "id": 35573029,
                 "language": "Go",
+                "license": "BSD-2-Clause",
                 "last_commit": "2025-10-28T18:41:28Z",
+                "open_issues": 14,
                 "owner": "olahol",
                 "repo": "melody",
-                "stars": 4083
+                "stars": 4083,
+                "topics": [
+                  "example",
+                  "framework",
+                  "go",
+                  "golang",
+                  "minimalist",
+                  "websocket",
+                  "websocket-framework"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -893,12 +1503,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pure Go 1000k+ connections solution, support tls/http1.x/websocket and basically compatible with net/http, with high-performance and low memory cost, non-blocking, event-driven, easy-to-use.",
+                "homepage": null,
                 "id": 236162999,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-09T11:42:02Z",
+                "open_issues": 0,
                 "owner": "lesismal",
                 "repo": "nbio",
-                "stars": 2755
+                "stars": 2755,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -909,12 +1524,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "simple, fast, reliable websocket server & client, supports running over tcp/kcp/unix domain socket. keywords: ws, proxy, chat, go, golang...",
+                "homepage": "https://pkg.go.dev/github.com/lxzan/gws",
                 "id": 534446803,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-27T09:10:13Z",
+                "open_issues": 0,
                 "owner": "lxzan",
                 "repo": "gws",
-                "stars": 1796
+                "stars": 1796,
+                "topics": [
+                  "context-takeover",
+                  "go-websocket",
+                  "go-ws",
+                  "kcp",
+                  "permessage-deflate",
+                  "rfc7692",
+                  "websocket",
+                  "ws"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -925,12 +1554,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Real-time messaging library for Go. The simplest way to add feature-rich and scalable WebSocket support to your application. The core of Centrifugo server.",
+                "homepage": "https://pkg.go.dev/github.com/centrifugal/centrifuge",
                 "id": 122386753,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-26T20:56:33Z",
+                "open_issues": 13,
                 "owner": "centrifugal",
                 "repo": "centrifuge",
-                "stars": 1465
+                "stars": 1465,
+                "topics": [
+                  "authentication",
+                  "eventsource",
+                  "http-streaming",
+                  "json",
+                  "messaging",
+                  "protobuf",
+                  "pubsub",
+                  "real-time",
+                  "redis",
+                  "scalability",
+                  "sse",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -941,12 +1588,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "⚠️ Deprecated repository, available within Fiber Contrib.",
+                "homepage": "https://github.com/gofiber/contrib/tree/main/websocket",
                 "id": 246271137,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2023-05-24T10:36:12Z",
+                "open_issues": 23,
                 "owner": "gofiber",
                 "repo": "websocket",
-                "stars": 287
+                "stars": 287,
+                "topics": [
+                  "fiber",
+                  "golang",
+                  "middleware",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -957,12 +1614,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "World's first fully integrated and fully Automated Kubernetes management and orchestration solution",
+                "homepage": "https://console.kubestellar.io",
                 "id": 1135473716,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T19:26:10Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T04:23:10Z",
+                "open_issues": 12,
                 "owner": "kubestellar",
                 "repo": "console",
-                "stars": 129
+                "stars": 129,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -973,12 +1635,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "100w连接仅需500-700MB内存，针对海量连接特别优化的websocket库(kqueue, epoll)，高性能，callback写法，在服务器cpu上有不俗表现 https://github.com/antlabs/greatws-example",
+                "homepage": null,
                 "id": 684653888,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-06T09:03:58Z",
+                "open_issues": 4,
                 "owner": "antlabs",
                 "repo": "greatws",
-                "stars": 86
+                "stars": 86,
+                "topics": [
+                  "rfc6455",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -989,12 +1659,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight, flexible WebSocket framework for Go. Build real-time applications with powerful message routing, bidirectional communication, and composable middleware.",
+                "homepage": "https://github.com/RobertWHurst/Velaros",
                 "id": 777487146,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-07-24T18:13:23Z",
+                "open_issues": 1,
                 "owner": "RobertWHurst",
                 "repo": "Velaros",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "golang",
+                  "messagepack",
+                  "middleware",
+                  "protobuf",
+                  "real-time",
+                  "websocket",
+                  "websocket-server"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             }
@@ -1012,12 +1695,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Haskell library for creating WebSocket-capable servers",
+                "homepage": "http://jaspervdj.be/websockets",
                 "id": 2350130,
                 "language": "Haskell",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-04-20T08:39:14Z",
+                "open_issues": 38,
                 "owner": "jaspervdj",
                 "repo": "websockets",
-                "stars": 416
+                "stars": 416,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -1028,12 +1716,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⭕️ N2O: Haskell Application Server",
+                "homepage": "https://n2o.o3.click",
                 "id": 144079548,
                 "language": "Haskell",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-02-16T08:27:49Z",
+                "open_issues": 5,
                 "owner": "o3",
                 "repo": "n2o",
-                "stars": 47
+                "stars": 47,
+                "topics": [
+                  "haskell",
+                  "n2o"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             }
@@ -1053,12 +1749,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple, high-performance event-driven HTTP client+server for Clojure",
+                    "homepage": "https://www.taoensso.com/http-kit",
                     "id": 3701855,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-21T04:09:35Z",
+                    "open_issues": 52,
                     "owner": "http-kit",
                     "repo": "http-kit",
-                    "stars": 2565
+                    "stars": 2565,
+                    "topics": [
+                      "async",
+                      "clojure",
+                      "http-client",
+                      "http-server",
+                      "websockets"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:37:29.261Z"
                 },
@@ -1069,12 +1776,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Realtime web comms library for Clojure/Script",
+                    "homepage": "https://www.taoensso.com/sente",
                     "id": 17054460,
                     "language": "Clojure",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-21T05:13:50Z",
+                    "open_issues": 4,
                     "owner": "taoensso",
                     "repo": "sente",
-                    "stars": 1791
+                    "stars": 1791,
+                    "topics": [
+                      "ajax",
+                      "async",
+                      "clojure",
+                      "clojurescript",
+                      "edn",
+                      "epl",
+                      "http-kit",
+                      "taoensso",
+                      "transit",
+                      "websockets"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:37:29.261Z"
                 },
@@ -1085,12 +1808,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A library designed to bridge the gap between the triad of CLJ/CLJS, web-sockets and core.async.",
+                    "homepage": null,
                     "id": 11863945,
                     "language": "Clojure",
+                    "license": null,
                     "last_commit": "2020-07-12T09:57:33Z",
+                    "open_issues": 7,
                     "owner": "jarohen",
                     "repo": "chord",
-                    "stars": 442
+                    "stars": 442,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:37:29.261Z"
                 }
@@ -1108,12 +1836,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Netty project - an event-driven asynchronous network application framework",
+                    "homepage": "http://netty.io",
                     "id": 1064563,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-28T14:17:22Z",
+                    "open_issues": 658,
                     "owner": "netty",
                     "repo": "netty",
-                    "stars": 35035
+                    "stars": 35033,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:37:29.261Z"
                 },
@@ -1124,12 +1857,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Vert.x is a tool-kit for building reactive applications on the JVM",
+                    "homepage": "https://vertx.io",
                     "id": 1911523,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-28T10:09:44Z",
+                    "open_issues": 230,
                     "owner": "eclipse-vertx",
                     "repo": "vert.x",
-                    "stars": 14686
+                    "stars": 14687,
+                    "topics": [
+                      "concurrency",
+                      "event-loop",
+                      "high-performance",
+                      "http2",
+                      "java",
+                      "jvm",
+                      "netty",
+                      "nio",
+                      "non-blocking",
+                      "reactive",
+                      "vertx"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:37:29.261Z"
                 },
@@ -1140,12 +1890,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A barebones WebSocket client and server implementation written in 100% Java.",
+                    "homepage": "http://tootallnate.github.io/Java-WebSocket",
                     "id": 481412,
                     "language": "Java",
+                    "license": "MIT",
                     "last_commit": "2026-01-13T21:24:14Z",
+                    "open_issues": 58,
                     "owner": "TooTallNate",
                     "repo": "Java-WebSocket",
-                    "stars": 10805
+                    "stars": 10806,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:37:29.261Z"
                 },
@@ -1156,12 +1911,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A simple and modern Java and Kotlin web framework",
+                    "homepage": "https://javalin.io",
                     "id": 87012358,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-15T16:29:24Z",
+                    "open_issues": 22,
                     "owner": "javalin",
                     "repo": "javalin",
-                    "stars": 8342
+                    "stars": 8342,
+                    "topics": [
+                      "hacktoberfest",
+                      "java",
+                      "javalin",
+                      "jetty",
+                      "kotlin",
+                      "microservice",
+                      "rest-api",
+                      "servlet",
+                      "web-framework"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:37:29.261Z"
                 },
@@ -1172,12 +1942,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Eclipse Jetty® - Web Container & Clients - supports HTTP/3, HTTP/2, HTTP/1, websocket, servlets, and more",
+                    "homepage": "https://jetty.org/",
                     "id": 2045207,
                     "language": "Java",
-                    "last_commit": "2026-08-28T16:41:34Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-29T00:24:41Z",
+                    "open_issues": 291,
                     "owner": "jetty",
                     "repo": "jetty.project",
-                    "stars": 4091
+                    "stars": 4091,
+                    "topics": [
+                      "eclipse",
+                      "embedded",
+                      "fcgi",
+                      "http",
+                      "http-client",
+                      "http-server",
+                      "http2",
+                      "http3",
+                      "https",
+                      "jakartaee",
+                      "java",
+                      "jetty",
+                      "jpms",
+                      "jsp",
+                      "osgi",
+                      "servlet",
+                      "ssl",
+                      "tls",
+                      "unix-socket",
+                      "websockets"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:37:29.261Z"
                 },
@@ -1188,12 +1984,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Portable AI agent runtime for the JVM. One @Agent class runs on Spring AI, LangChain4j, Anthropic, or 9 more behind one SPI. Token streaming, tool calls, human approvals, and governance over WebSocket, SSE, gRPC, or WebTransport/HTTP3. Speaks MCP, A2A, and AG-UI.",
+                    "homepage": "https://async-io.live",
                     "id": 749137,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-28T16:10:42Z",
+                    "open_issues": 7,
                     "owner": "Atmosphere",
                     "repo": "atmosphere",
-                    "stars": 3796
+                    "stars": 3796,
+                    "topics": [
+                      "a2a",
+                      "acp",
+                      "agentic-ai",
+                      "ai-agents",
+                      "anthropic",
+                      "crewai",
+                      "embabel",
+                      "event-driven",
+                      "java",
+                      "koog",
+                      "langchain4j",
+                      "llm",
+                      "mcp",
+                      "multiagent",
+                      "quarkus",
+                      "rag",
+                      "spring-ai",
+                      "spring-boot",
+                      "sse",
+                      "websocket"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:37:29.261Z"
                 },
@@ -1204,12 +2026,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "High performance non-blocking webserver",
+                    "homepage": "https://undertow.io",
                     "id": 5103785,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-14T19:06:33Z",
+                    "open_issues": 46,
                     "owner": "undertow-io",
                     "repo": "undertow",
-                    "stars": 3760
+                    "stars": 3760,
+                    "topics": [
+                      "ajp",
+                      "hacktoberfest",
+                      "http",
+                      "http-server",
+                      "jakartaee",
+                      "jakartaee10",
+                      "java",
+                      "java-nio",
+                      "jboss",
+                      "servlet",
+                      "web",
+                      "websocket",
+                      "wildfly"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:37:29.261Z"
                 },
@@ -1220,12 +2061,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "High-quality WebSocket client implementation in Java.",
+                    "homepage": null,
                     "id": 32916852,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-01-28T14:16:55Z",
+                    "open_issues": 93,
                     "owner": "TakahikoKawasaki",
                     "repo": "nv-websocket-client",
-                    "stars": 2052
+                    "stars": 2052,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:37:29.261Z"
                 },
@@ -1236,12 +2082,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Java event based WebSocket and HTTP server",
+                    "homepage": "http://webbitserver.org/",
                     "id": 1261652,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-12-17T03:24:41Z",
+                    "open_issues": 47,
                     "owner": "webbit",
                     "repo": "webbit",
-                    "stars": 818
+                    "stars": 818,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:37:29.261Z"
                 },
@@ -1252,12 +2103,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tyrus",
+                    "homepage": null,
                     "id": 117292444,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-03-15T12:51:13Z",
+                    "open_issues": 107,
                     "owner": "eclipse-ee4j",
                     "repo": "tyrus",
-                    "stars": 128
+                    "stars": 128,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:37:29.261Z"
                 }
@@ -1275,12 +2131,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A meticulous HTTP client for the JVM, Android, and GraalVM.",
+                    "homepage": "https://lysine.dev/okhttp/",
                     "id": 5152285,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-27T03:27:47Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-28T21:12:08Z",
+                    "open_issues": 143,
                     "owner": "lysine-dev",
                     "repo": "okhttp",
-                    "stars": 47056
+                    "stars": 47056,
+                    "topics": [
+                      "android",
+                      "graalvm",
+                      "java",
+                      "kotlin"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:37:29.261Z"
                 },
@@ -1291,12 +2157,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Framework for quickly creating connected applications in Kotlin with minimal effort",
+                    "homepage": "https://ktor.io",
                     "id": 40136600,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-28T16:13:09Z",
+                    "open_issues": 182,
                     "owner": "ktorio",
                     "repo": "ktor",
-                    "stars": 14504
+                    "stars": 14504,
+                    "topics": [
+                      "async",
+                      "asynchronous",
+                      "kotlin",
+                      "web",
+                      "web-framework"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:37:29.261Z"
                 },
@@ -1307,12 +2184,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Retrofit inspired WebSocket client for Kotlin, Java, and Android",
+                    "homepage": null,
                     "id": 135329998,
                     "language": "Kotlin",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-11-21T18:58:33Z",
+                    "open_issues": 108,
                     "owner": "Tinder",
                     "repo": "Scarlet",
-                    "stars": 3253
+                    "stars": 3253,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:37:29.261Z"
                 }
@@ -1330,12 +2212,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A minimal, idiomatic Scala interface for HTTP",
+                    "homepage": "https://http4s.org/",
                     "id": 3692188,
                     "language": "Scala",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-28T04:06:39Z",
+                    "open_issues": 385,
                     "owner": "http4s",
                     "repo": "http4s",
-                    "stars": 2627
+                    "stars": 2627,
+                    "topics": [
+                      "cats",
+                      "fs2",
+                      "http",
+                      "http-client",
+                      "http-server",
+                      "scala",
+                      "typelevel"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:37:29.261Z"
                 },
@@ -1346,12 +2241,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A next-generation Scala framework for building scalable, correct, and efficient HTTP clients and servers",
+                    "homepage": "https://ziohttp.com",
                     "id": 339799160,
                     "language": "Scala",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-26T13:56:41Z",
+                    "open_issues": 57,
                     "owner": "zio",
                     "repo": "zio-http",
-                    "stars": 871
+                    "stars": 871,
+                    "topics": [
+                      "http",
+                      "http-client",
+                      "http-server",
+                      "scala",
+                      "websocket",
+                      "zio"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:37:29.261Z"
                 },
@@ -1362,12 +2269,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Streaming-first HTTP server/module of Apache Pekko",
+                    "homepage": "https://pekko.apache.org/",
                     "id": 559858016,
                     "language": "Scala",
-                    "last_commit": "2026-08-27T17:59:43Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-28T20:06:24Z",
+                    "open_issues": 71,
                     "owner": "apache",
                     "repo": "pekko-http",
-                    "stars": 196
+                    "stars": 196,
+                    "topics": [
+                      "http",
+                      "http-client",
+                      "http-server",
+                      "http2",
+                      "pekko",
+                      "pekko-http",
+                      "reactive",
+                      "streaming",
+                      "websocket"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:37:29.261Z"
                 },
@@ -1378,12 +2300,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Finagle Websocket clients and servers",
+                    "homepage": null,
                     "id": 28154182,
                     "language": "Scala",
+                    "license": null,
                     "last_commit": "2017-12-21T08:48:59Z",
+                    "open_issues": 7,
                     "owner": "finagle",
                     "repo": "finagle-websocket",
-                    "stars": 37
+                    "stars": 37,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:37:29.261Z"
                 }
@@ -1406,12 +2333,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HTTP for Julia",
+                "homepage": "https://juliaweb.github.io/HTTP.jl/stable/",
                 "id": 75249739,
                 "language": "Julia",
-                "last_commit": "2026-08-28T18:50:28Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T21:12:35Z",
+                "open_issues": 5,
                 "owner": "JuliaWeb",
                 "repo": "HTTP.jl",
-                "stars": 687
+                "stars": 687,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -1422,12 +2354,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A WebSockets library for Julia",
+                "homepage": null,
                 "id": 9153575,
                 "language": "Julia",
+                "license": "MIT",
                 "last_commit": "2022-11-29T13:00:00Z",
+                "open_issues": 9,
                 "owner": "JuliaWeb",
                 "repo": "WebSockets.jl",
-                "stars": 162
+                "stars": 162,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             }
@@ -1445,12 +2382,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js",
+                "homepage": null,
                 "id": 2744972,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-13T07:38:51Z",
+                "open_issues": 5,
                 "owner": "websockets",
                 "repo": "ws",
-                "stars": 22793
+                "stars": 22794,
+                "topics": [
+                  "javascript",
+                  "node",
+                  "nodejs",
+                  "real-time",
+                  "rfc-6455",
+                  "websocket",
+                  "websocket-client",
+                  "websocket-compression",
+                  "websocket-server"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -1461,12 +2413,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "μWebSockets for Node.js back-ends :metal:",
+                "homepage": null,
                 "id": 142631191,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-11T07:19:45Z",
+                "open_issues": 21,
                 "owner": "uNetworking",
                 "repo": "uWebSockets.js",
-                "stars": 9148
+                "stars": 9148,
+                "topics": [
+                  "commercial",
+                  "http",
+                  "nodejs",
+                  "proxy-protocol",
+                  "pubsub",
+                  "router",
+                  "runtime",
+                  "typescript",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -1477,12 +2444,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PartyKit simplifies developing multiplayer applications",
+                "homepage": "https://docs.partykit.io/",
                 "id": 576685935,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-01-29T16:04:37Z",
+                "open_issues": 92,
                 "owner": "partykit",
                 "repo": "partykit",
-                "stars": 5693
+                "stars": 5694,
+                "topics": [
+                  "backends",
+                  "collaboration",
+                  "crdts",
+                  "durable-objects",
+                  "edge-computing",
+                  "games",
+                  "gaming",
+                  "multiplayer",
+                  "real-time",
+                  "realtime",
+                  "websockets",
+                  "yjs"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -1493,12 +2478,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Next-gen, Pusher-compatible, open-source WebSockets server. Simple, fast, and resilient. 📣",
+                "homepage": "https://soketi.app/",
                 "id": 376394084,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-03-03T10:28:55Z",
+                "open_issues": 140,
                 "owner": "soketi",
                 "repo": "soketi",
-                "stars": 5634
+                "stars": 5634,
+                "topics": [
+                  "broadcasting",
+                  "cloudflare",
+                  "docker",
+                  "hacktoberfest",
+                  "helia",
+                  "ipfs",
+                  "javascript",
+                  "libp2p",
+                  "nodejs",
+                  "p2p",
+                  "pusher",
+                  "real-time",
+                  "realtime",
+                  "websocket",
+                  "websockets",
+                  "ws"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -1509,12 +2516,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A WebSocket Implementation for Node.JS (Draft -08 through the final RFC 6455)",
+                "homepage": null,
                 "id": 1590986,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-06T22:27:40Z",
+                "open_issues": 74,
                 "owner": "theturtle32",
                 "repo": "WebSocket-Node",
-                "stars": 3782
+                "stars": 3782,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -1525,12 +2537,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The cutest little WebSocket wrapper! 🧦",
+                "homepage": null,
                 "id": 99386917,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-01-20T17:07:08Z",
+                "open_issues": 10,
                 "owner": "lukeed",
                 "repo": "sockette",
-                "stars": 2468
+                "stars": 2468,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -1541,12 +2558,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WebSocket emulation - Node.js server",
+                "homepage": "http://sockjs.org",
                 "id": 2088982,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-21T01:47:23Z",
+                "open_issues": 19,
                 "owner": "sockjs",
                 "repo": "sockjs-node",
-                "stars": 2101
+                "stars": 2101,
+                "topics": [
+                  "javascript",
+                  "node",
+                  "nodejs",
+                  "real-time",
+                  "sockjs",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -1557,12 +2586,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Coherent, zero-dependency, lazy, simple, GraphQL over WebSocket Protocol compliant server and client.",
+                "homepage": "https://the-guild.dev/graphql/ws",
                 "id": 283446239,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-06T09:05:20Z",
+                "open_issues": 9,
                 "owner": "enisdenjo",
                 "repo": "graphql-ws",
-                "stars": 1871
+                "stars": 1871,
+                "topics": [
+                  "apollo",
+                  "client",
+                  "express",
+                  "fastify",
+                  "graphql",
+                  "observables",
+                  "protocol",
+                  "relay",
+                  "server",
+                  "subscriptions",
+                  "the-guild",
+                  "transport",
+                  "uwebsockets",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -1573,12 +2622,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A node.js module for websocket server and client",
+                "homepage": null,
                 "id": 11535817,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-12-02T22:05:21Z",
+                "open_issues": 15,
                 "owner": "sitegui",
                 "repo": "nodejs-websocket",
-                "stars": 736
+                "stars": 736,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -1589,12 +2643,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Websocket Connector for Yjs",
+                "homepage": "https://docs.yjs.dev/ecosystem/connection-provider/y-websocket",
                 "id": 169237252,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-06T16:32:28Z",
+                "open_issues": 38,
                 "owner": "yjs",
                 "repo": "y-websocket",
-                "stars": 710
+                "stars": 710,
+                "topics": [
+                  "yjs",
+                  "yjs-provider"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -1605,12 +2667,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JSON-RPC 2.0 implementation over WebSockets for Node.js and JavaScript/TypeScript",
+                "homepage": null,
                 "id": 70642405,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-15T08:29:57Z",
+                "open_issues": 17,
                 "owner": "elpheria",
                 "repo": "rpc-websockets",
-                "stars": 625
+                "stars": 625,
+                "topics": [
+                  "aws",
+                  "chat",
+                  "distributed-systems",
+                  "events",
+                  "gcp",
+                  "iot",
+                  "messaging",
+                  "multiplayer",
+                  "nodejs",
+                  "push-notifications",
+                  "remote-procedure-calls",
+                  "rpc",
+                  "rpc-api",
+                  "rpc-client",
+                  "rpc-framework",
+                  "rpc-server",
+                  "scalable",
+                  "serverless",
+                  "typescript",
+                  "websocket-server"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -1621,12 +2709,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Standards-compliant WebSocket client and server",
+                "homepage": null,
                 "id": 2840511,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2023-09-07T18:19:35Z",
+                "open_issues": 5,
                 "owner": "faye",
                 "repo": "faye-websocket-node",
-                "stars": 613
+                "stars": 613,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -1637,12 +2730,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Promise-based API for WebSockets",
+                "homepage": null,
                 "id": 95229864,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-04-22T09:17:59Z",
+                "open_issues": 6,
                 "owner": "vitalets",
                 "repo": "websocket-as-promised",
-                "stars": 601
+                "stars": 601,
+                "topics": [
+                  "javascript",
+                  "nodejs",
+                  "promise",
+                  "websocket",
+                  "websocket-api",
+                  "websocket-client"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -1653,12 +2758,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight WebSocket lib with socket.io-like event handling, requests, and channels",
+                "homepage": null,
                 "id": 75735278,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-05-04T02:34:19Z",
+                "open_issues": 0,
                 "owner": "bminer",
                 "repo": "ws-wrapper",
-                "stars": 86
+                "stars": 86,
+                "topics": [
+                  "browser",
+                  "event-handlers",
+                  "namespace",
+                  "nodejs",
+                  "promise",
+                  "websocket",
+                  "wrapper"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -1669,12 +2787,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight WebSocketServer wrapper lib using ws-wrapper to wrap connected WebSockets",
+                "homepage": null,
                 "id": 81245482,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-04-30T18:19:40Z",
+                "open_issues": 0,
                 "owner": "bminer",
                 "repo": "ws-server-wrapper",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "event-handlers",
+                  "nodejs",
+                  "server",
+                  "websocket",
+                  "ws-wrapper"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             }
@@ -1692,12 +2821,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Websockets for Laravel. Done right.",
+                "homepage": "https://beyondco.de/docs/laravel-websockets",
                 "id": 158374929,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2024-02-07T17:30:55Z",
+                "open_issues": 0,
                 "owner": "beyondcode",
                 "repo": "laravel-websockets",
-                "stars": 5073
+                "stars": 5073,
+                "topics": [
+                  "hacktoberfest",
+                  "laravel",
+                  "laravel-echo",
+                  "pusher",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -1708,12 +2848,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple WebSocket server implemented in PHP.",
+                "homepage": "https://bloatless.org",
                 "id": 2591294,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2022-10-22T01:31:37Z",
+                "open_issues": 5,
                 "owner": "bloatless",
                 "repo": "php-websocket",
-                "stars": 587
+                "stars": 587,
+                "topics": [
+                  "php",
+                  "websocket-server",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -1724,12 +2873,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "PHP Web Socket server",
+                "homepage": null,
                 "id": 7209607,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2019-05-06T18:16:14Z",
+                "open_issues": 33,
                 "owner": "Devristo",
                 "repo": "phpws",
-                "stars": 345
+                "stars": 345,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             }
@@ -1747,12 +2901,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+                "homepage": "https://fastapi.tiangolo.com/",
                 "id": 160919119,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-26T17:54:56Z",
+                "open_issues": 79,
                 "owner": "fastapi",
                 "repo": "fastapi",
-                "stars": 101905
+                "stars": 101913,
+                "topics": [
+                  "api",
+                  "async",
+                  "asyncio",
+                  "fastapi",
+                  "framework",
+                  "json",
+                  "json-schema",
+                  "openapi",
+                  "openapi3",
+                  "pydantic",
+                  "python",
+                  "python-types",
+                  "python3",
+                  "redoc",
+                  "rest",
+                  "starlette",
+                  "swagger",
+                  "swagger-ui",
+                  "uvicorn",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -1763,12 +2943,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Asynchronous HTTP client/server framework for asyncio and Python",
+                "homepage": "https://docs.aiohttp.org",
                 "id": 13258039,
                 "language": "Python",
-                "last_commit": "2026-08-28T16:13:56Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:18:24Z",
+                "open_issues": 225,
                 "owner": "aio-libs",
                 "repo": "aiohttp",
-                "stars": 16531
+                "stars": 16532,
+                "topics": [
+                  "aiohttp",
+                  "async",
+                  "asyncio",
+                  "hacktoberfest",
+                  "http",
+                  "http-client",
+                  "http-server",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -1779,12 +2973,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Library for building WebSocket servers and clients in Python",
+                "homepage": "https://websockets.readthedocs.io/",
                 "id": 9113587,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-27T16:01:19Z",
+                "open_issues": 1,
                 "owner": "python-websockets",
                 "repo": "websockets",
-                "stars": 5715
+                "stars": 5715,
+                "topics": [
+                  "python",
+                  "python3",
+                  "websocket",
+                  "websocket-client",
+                  "websocket-library",
+                  "websocket-server",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -1795,12 +3002,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python Socket.IO server and client",
+                "homepage": null,
                 "id": 39119843,
                 "language": "Python",
-                "last_commit": "2026-08-09T23:02:03Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T23:02:39Z",
+                "open_issues": 14,
                 "owner": "miguelgrinberg",
                 "repo": "python-socketio",
-                "stars": 4367
+                "stars": 4367,
+                "topics": [
+                  "asyncio",
+                  "eventlet",
+                  "gevent",
+                  "long-polling",
+                  "low-latency",
+                  "python",
+                  "socket-io",
+                  "socketio",
+                  "socketio-server",
+                  "web-server",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -1811,12 +3035,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WebSocket client for Python",
+                "homepage": "https://websocket-client.readthedocs.io/",
                 "id": 1202362,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-19T21:49:37Z",
+                "open_issues": 35,
                 "owner": "websocket-client",
                 "repo": "websocket-client",
-                "stars": 3709
+                "stars": 3708,
+                "topics": [
+                  "python",
+                  "rfc-6455",
+                  "websocket",
+                  "websocket-client",
+                  "websockets",
+                  "websockets-client"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -1827,12 +3063,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WebSocket and WAMP in Python for Twisted and asyncio",
+                "homepage": "https://autobahn.readthedocs.io/",
                 "id": 2113510,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-15T18:49:29Z",
+                "open_issues": 187,
                 "owner": "crossbario",
                 "repo": "autobahn-python",
-                "stars": 2543
+                "stars": 2543,
+                "topics": [
+                  "autobahn",
+                  "pubsub",
+                  "python",
+                  "real-time",
+                  "rpc",
+                  "wamp",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -1843,12 +3092,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bringing Http/Https and WebSockets High Performance servers for PyPy3 and Python3",
+                "homepage": "https://www.socketify.dev",
                 "id": 495961532,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-17T20:47:37Z",
+                "open_issues": 51,
                 "owner": "cirospaciari",
                 "repo": "socketify.py",
-                "stars": 1713
+                "stars": 1713,
+                "topics": [
+                  "asgi",
+                  "asgi-server",
+                  "asyncio",
+                  "commercial",
+                  "framework",
+                  "http",
+                  "http-server",
+                  "performance",
+                  "proxy-protocol",
+                  "pubsub",
+                  "pypy",
+                  "python",
+                  "python3",
+                  "router",
+                  "socketify",
+                  "websocket",
+                  "websocket-server",
+                  "websockets",
+                  "wsgi",
+                  "wsgi-server"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -1859,12 +3134,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple fully working websocket-server in Python with no external dependencies",
+                "homepage": null,
                 "id": 26865957,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-10-07T15:11:36Z",
+                "open_issues": 40,
                 "owner": "Pithikos",
                 "repo": "python-websocket-server",
-                "stars": 1178
+                "stars": 1178,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -1875,12 +3155,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple WebSocket server and client for Python.",
+                "homepage": null,
                 "id": 358970828,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-14T23:08:06Z",
+                "open_issues": 6,
                 "owner": "miguelgrinberg",
                 "repo": "simple-websocket",
-                "stars": 88
+                "stars": 88,
+                "topics": [
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -1891,12 +3178,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High-performance rust powered websocket server for python",
+                "homepage": "https://webrockets.io",
                 "id": 1091658288,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-07-23T22:07:53Z",
+                "open_issues": 1,
                 "owner": "ploMP4",
                 "repo": "webrockets",
-                "stars": 76
+                "stars": 76,
+                "topics": [
+                  "django",
+                  "python",
+                  "python-websocket",
+                  "rust",
+                  "webrockets",
+                  "websocket-server",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -1907,12 +3207,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A super light way HTTP server written by python, support websocket and coroutine. ",
+                "homepage": null,
                 "id": 80082290,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-12T01:48:38Z",
+                "open_issues": 0,
                 "owner": "keijack",
                 "repo": "python-simple-http-server",
-                "stars": 49
+                "stars": 49,
+                "topics": [
+                  "http-server",
+                  "python",
+                  "python-library",
+                  "python3",
+                  "spring",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -1923,12 +3235,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Benchmark a WebSocket server's message throughput ⌛",
+                "homepage": null,
                 "id": 167689541,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-03-27T20:27:20Z",
+                "open_issues": 2,
                 "owner": "healeycodes",
                 "repo": "websocket-benchmarker",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "benchmark",
+                  "python",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             }
@@ -1946,12 +3267,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cross-platform asynchronous I/O",
+                "homepage": "https://libuv.org/",
                 "id": 14812739,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-08-20T09:27:28Z",
+                "open_issues": 234,
                 "owner": "libuv",
                 "repo": "libuv",
-                "stars": 27143
+                "stars": 27142,
+                "topics": [
+                  "asynchronous",
+                  "deep-io",
+                  "io",
+                  "networking",
+                  "unicorns",
+                  "unix",
+                  "velociraptors",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             }
@@ -1969,12 +3304,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Plug and play websocket support for ruby on rails.",
+                "homepage": null,
                 "id": 3829913,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2024-02-14T10:47:37Z",
+                "open_issues": 200,
                 "owner": "websocket-rails",
                 "repo": "websocket-rails",
-                "stars": 1715
+                "stars": 1715,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -1985,12 +3325,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EventMachine based WebSocket server",
+                "homepage": "http://www.igvita.com/2009/12/22/ruby-websockets-tcp-for-the-browser/",
                 "id": 444184,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2021-11-11T05:02:55Z",
+                "open_issues": 26,
                 "owner": "igrigorik",
                 "repo": "em-websocket",
-                "stars": 1689
+                "stars": 1689,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -2001,12 +3346,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Open Pusher implementation compatible with Pusher libraries",
+                "homepage": null,
                 "id": 1893681,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2022-07-21T23:34:21Z",
+                "open_issues": 29,
                 "owner": "stevegraham",
                 "repo": "slanger",
-                "stars": 1687
+                "stars": 1687,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -2017,12 +3367,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fiber-based Ruby web framework combining Rails ergonomics with a unified runtime",
+                "homepage": "https://rage-rb.dev",
                 "id": 692113941,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-08-27T22:11:33Z",
+                "open_issues": 23,
                 "owner": "rage-rb",
                 "repo": "rage",
-                "stars": 1409
+                "stars": 1409,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -2033,12 +3388,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Real-time Rails Partials",
+                "homepage": null,
                 "id": 9255872,
                 "language": "Ruby",
+                "license": "NOASSERTION",
                 "last_commit": "2019-05-25T19:15:38Z",
+                "open_issues": 39,
                 "owner": "chrismccord",
                 "repo": "render_sync",
-                "stars": 1385
+                "stars": 1385,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -2049,12 +3409,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Standards-compliant WebSocket client and server",
+                "homepage": null,
                 "id": 2824626,
                 "language": "Ruby",
+                "license": "NOASSERTION",
                 "last_commit": "2025-05-25T17:47:27Z",
+                "open_issues": 6,
                 "owner": "faye",
                 "repo": "faye-websocket-ruby",
-                "stars": 1059
+                "stars": 1059,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -2065,12 +3430,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "iodine - HTTP / WebSockets Server for Ruby with Pub/Sub support",
+                "homepage": null,
                 "id": 44454577,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-08-20T18:43:57Z",
+                "open_issues": 22,
                 "owner": "boazsegev",
                 "repo": "iodine",
-                "stars": 971
+                "stars": 971,
+                "topics": [
+                  "clustering",
+                  "high-performance",
+                  "http",
+                  "message-bus",
+                  "multithreading",
+                  "pubsub",
+                  "ruby",
+                  "server",
+                  "sse",
+                  "web-server",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -2081,12 +3463,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Universal Ruby library to handle WebSocket protocol",
+                "homepage": null,
                 "id": 1139405,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2026-07-25T23:45:14Z",
+                "open_issues": 3,
                 "owner": "imanel",
                 "repo": "websocket-ruby",
-                "stars": 464
+                "stars": 464,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -2097,12 +3484,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Light-weight, DRY as a desert, web framework for Ruby.",
+                "homepage": "http://scorchedrb.com",
                 "id": 5364066,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-07-31T02:03:24Z",
+                "open_issues": 0,
                 "owner": "Wardrop",
                 "repo": "Scorched",
-                "stars": 275
+                "stars": 275,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -2113,12 +3505,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WebSocket protocol handler with pluggable I/O",
+                "homepage": null,
                 "id": 9236384,
                 "language": "Ruby",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-23T11:24:18Z",
+                "open_issues": 11,
                 "owner": "faye",
                 "repo": "websocket-driver-ruby",
-                "stars": 238
+                "stars": 238,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             }
@@ -2136,12 +3533,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity",
+                "homepage": null,
                 "id": 372172254,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-28T13:01:01Z",
+                "open_issues": 77,
                 "owner": "tokio-rs",
                 "repo": "axum",
-                "stars": 26976
+                "stars": 26978,
+                "topics": [
+                  "http",
+                  "routing",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -2152,12 +3558,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A super-easy, composable, web server framework for warp speeds.",
+                "homepage": "https://seanmonstar.com/blog/warp/",
                 "id": 140609832,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-07-28T15:25:12Z",
+                "open_issues": 232,
                 "owner": "seanmonstar",
                 "repo": "warp",
-                "stars": 10366
+                "stars": 10366,
+                "topics": [
+                  "framework",
+                  "http",
+                  "rust",
+                  "server"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -2168,12 +3584,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "framework for composable networking services ",
+                "homepage": null,
                 "id": 237348733,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T07:37:30Z",
+                "open_issues": 2,
                 "owner": "ntex-rs",
                 "repo": "ntex",
-                "stars": 2533
+                "stars": 2533,
+                "topics": [
+                  "async",
+                  "http",
+                  "networking",
+                  "rust",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -2184,12 +3611,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Future-based Tungstenite for Tokio. Lightweight stream-based WebSocket implementation",
+                "homepage": null,
                 "id": 85336768,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-07-11T13:02:02Z",
+                "open_issues": 18,
                 "owner": "snapview",
                 "repo": "tokio-tungstenite",
-                "stars": 2498
+                "stars": 2498,
+                "topics": [
+                  "asynchronous",
+                  "tokio",
+                  "tokio-tungstenite",
+                  "websocket",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -2200,12 +3638,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight stream-based WebSocket implementation for Rust.",
+                "homepage": null,
                 "id": 85327864,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-11T12:10:26Z",
+                "open_issues": 46,
                 "owner": "snapview",
                 "repo": "tungstenite-rs",
-                "stars": 2384
+                "stars": 2384,
+                "topics": [
+                  "rust",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -2216,12 +3662,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A WebSocket (RFC6455) library written in Rust",
+                "homepage": "http://websockets-rs.github.io/rust-websocket/",
                 "id": 27212799,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-17T00:19:22Z",
+                "open_issues": 45,
                 "owner": "websockets-rs",
                 "repo": "rust-websocket",
-                "stars": 1613
+                "stars": 1613,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -2232,12 +3683,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fast RFC6455 WebSocket implementation",
+                "homepage": "https://docs.rs/fastwebsockets/",
                 "id": 613496485,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-31T11:54:49Z",
+                "open_issues": 19,
                 "owner": "denoland",
                 "repo": "fastwebsockets",
-                "stars": 1133
+                "stars": 1133,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -2248,12 +3704,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Async binding for Tungstenite, the Lightweight stream-based WebSocket implementation",
+                "homepage": null,
                 "id": 221229519,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-07-28T08:20:30Z",
+                "open_issues": 7,
                 "owner": "sdroege",
                 "repo": "async-tungstenite",
-                "stars": 443
+                "stars": 443,
+                "topics": [
+                  "async",
+                  "async-std",
+                  "gio",
+                  "glib",
+                  "rust",
+                  "tokio",
+                  "tungstenite",
+                  "websocket",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -2264,12 +3735,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Written by humans. WTX is a collection of different transport implementations and related tools focused primarily on web technologies.",
+                "homepage": "https://c410-f3r.github.io/wtx/",
                 "id": 684042595,
                 "language": "Rust",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-23T22:12:16Z",
+                "open_issues": 6,
                 "owner": "c410-f3r",
                 "repo": "wtx",
-                "stars": 399
+                "stars": 399,
+                "topics": [
+                  "api",
+                  "certificate",
+                  "cli",
+                  "database",
+                  "email",
+                  "embedded",
+                  "framework",
+                  "grpc",
+                  "http",
+                  "http2",
+                  "network",
+                  "postgres",
+                  "rust",
+                  "smtp",
+                  "sql",
+                  "time",
+                  "tls",
+                  "web",
+                  "websocket",
+                  "x509"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -2280,12 +3777,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "\"just open a socket\"",
+                "homepage": "https://docs.rs/tide-websockets/",
                 "id": 316062807,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2023-05-21T00:11:58Z",
+                "open_issues": 6,
                 "owner": "http-rs",
                 "repo": "tide-websockets",
-                "stars": 74
+                "stars": 74,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -2296,12 +3798,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ratchet is a fast, robust, lightweight and fully asynchronous implementation of RFC6455 (The WebSocket protocol).",
+                "homepage": null,
                 "id": 431082626,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-04T02:25:44Z",
+                "open_issues": 10,
                 "owner": "graphform",
                 "repo": "ratchet",
-                "stars": 60
+                "stars": 60,
+                "topics": [
+                  "async",
+                  "deflate",
+                  "rust",
+                  "tokio",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -2312,12 +3825,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Websocket generic library for Bitwyre WS-API",
+                "homepage": null,
                 "id": 215963735,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2019-11-20T07:41:45Z",
+                "open_issues": 1,
                 "owner": "bitwyre",
                 "repo": "websocket_core",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             }
@@ -2335,12 +3853,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Websockets in swift for iOS and OSX",
+                "homepage": null,
                 "id": 21924882,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-16T21:37:05Z",
+                "open_issues": 172,
                 "owner": "daltoniam",
                 "repo": "Starscream",
-                "stars": 8645
+                "stars": 8645,
+                "topics": [
+                  "osx",
+                  "protocol",
+                  "starscream",
+                  "swift",
+                  "websocket",
+                  "websocket-client",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -2351,12 +3882,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Event-driven network application framework for high performance protocol servers & clients, non-blocking.",
+                "homepage": "https://swiftpackageindex.com/apple/swift-nio/documentation",
                 "id": 120498971,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T13:38:10Z",
+                "open_issues": 296,
                 "owner": "apple",
                 "repo": "swift-nio",
-                "stars": 8510
+                "stars": 8510,
+                "topics": [
+                  "asynchronous-io",
+                  "event-driven",
+                  "high-performance",
+                  "networking",
+                  "non-blocking",
+                  "non-blocking-io",
+                  "swift",
+                  "swift-server",
+                  "swift5",
+                  "swiftnio"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -2367,12 +3914,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 31617364,
                 "language": "Swift",
+                "license": "NOASSERTION",
                 "last_commit": "2024-10-01T16:33:03Z",
+                "open_issues": 259,
                 "owner": "socketio",
                 "repo": "socket.io-client-swift",
-                "stars": 5293
+                "stars": 5294,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -2383,12 +3935,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight, flexible HTTP server framework written in Swift",
+                "homepage": "https://hummingbird.codes/",
                 "id": 327823869,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-23T02:20:03Z",
+                "open_issues": 24,
                 "owner": "hummingbird-project",
                 "repo": "hummingbird",
-                "stars": 1878
+                "stars": 1878,
+                "topics": [
+                  "http",
+                  "http-server",
+                  "server",
+                  "server-side-swift",
+                  "swift",
+                  "swift-nio",
+                  "web",
+                  "web-server"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -2399,12 +3965,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WebSocket client library built on SwiftNIO",
+                "homepage": "https://docs.vapor.codes/4.0/advanced/websockets/",
                 "id": 129814977,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-07-17T11:58:13Z",
+                "open_issues": 20,
                 "owner": "vapor",
                 "repo": "websocket-kit",
-                "stars": 313
+                "stars": 313,
+                "topics": [
+                  "server-side-swift",
+                  "spm",
+                  "swift",
+                  "swift-nio",
+                  "vapor",
+                  "vapor-service",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             }
@@ -2422,12 +4001,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node.js library to receive live stream events (comments, gifts, etc.) in realtime from TikTok LIVE.",
+                "homepage": "https://discord.gg/2c6kX6g3Pa",
                 "id": 455400811,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-18T04:47:38Z",
+                "open_issues": 9,
                 "owner": "zerodytrash",
                 "repo": "TikTok-Live-Connector",
-                "stars": 2134
+                "stars": 2135,
+                "topics": [
+                  "api",
+                  "api-wrapper",
+                  "bot",
+                  "broadcast",
+                  "chat",
+                  "chat-reader",
+                  "connector",
+                  "hacktoberfest",
+                  "javascript",
+                  "live",
+                  "livestream",
+                  "nodejs",
+                  "package",
+                  "scraper",
+                  "stream",
+                  "tiktok",
+                  "tiktok-api",
+                  "tiktok-live",
+                  "webcast",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -2438,12 +4043,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TikTok LIVE API for Python: The definitive 3rd-party library to receive livestream events (comments, gifts, etc.) in realtime from TikTok LIVE.",
+                "homepage": "https://isaackogan.github.io/TikTokLive/",
                 "id": 462948750,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-18T04:26:25Z",
+                "open_issues": 0,
                 "owner": "isaackogan",
                 "repo": "TikTokLive",
-                "stars": 1536
+                "stars": 1536,
+                "topics": [
+                  "live-chat",
+                  "live-streaming",
+                  "nodejs",
+                  "python",
+                  "speech-to-text",
+                  "tiktok",
+                  "tiktok-api",
+                  "tiktok-bot",
+                  "tiktok-chat",
+                  "tiktok-events",
+                  "tiktok-gift",
+                  "tiktok-live",
+                  "tiktok-live-api",
+                  "tiktok-live-connector",
+                  "tiktok-live-streams",
+                  "tiktok-stream",
+                  "tiktok-websocket",
+                  "typescript",
+                  "webcast",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             },
@@ -2454,12 +4085,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Java implementation of TikTok-Live-Connector library.  Receive live stream events (comments, gifts, etc.) in realtime from TikTok LIVE.",
+                "homepage": null,
                 "id": 675055277,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2026-08-13T03:12:08Z",
+                "open_issues": 1,
                 "owner": "jwdeveloper",
                 "repo": "TikTokLiveJava",
-                "stars": 211
+                "stars": 211,
+                "topics": [
+                  "api",
+                  "api-wrapper",
+                  "bot",
+                  "broadcast",
+                  "chat",
+                  "connector",
+                  "live",
+                  "livestream",
+                  "package",
+                  "scraper",
+                  "stream",
+                  "tiktok",
+                  "tiktok-api",
+                  "tiktok-java",
+                  "tiktok-live",
+                  "tiktok-live-java",
+                  "tiktoklive",
+                  "webcast",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
             }
@@ -2481,12 +4137,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React Hook for WebSocket communication",
+            "homepage": null,
             "id": 184860872,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-02-04T05:15:22Z",
+            "open_issues": 95,
             "owner": "robtaussig",
             "repo": "react-use-websocket",
-            "stars": 1886
+            "stars": 1886,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:37:29.261Z"
         },
@@ -2497,12 +4158,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "WebSocket client for the browser. Simplifying development and debugging",
+            "homepage": null,
             "id": 752301765,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-06-18T22:29:36Z",
+            "open_issues": 5,
             "owner": "melishev",
             "repo": "wsgo",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "real-time",
+              "rfc-6455",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-28T19:37:29.261Z"
         }
@@ -2519,12 +4189,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets. ",
+            "homepage": "http://websocketd.com/",
             "id": 8201256,
             "language": "Go",
-            "last_commit": "2026-08-20T15:07:59Z",
+            "license": "BSD-2-Clause",
+            "last_commit": "2026-08-29T02:31:44Z",
+            "open_issues": 7,
             "owner": "joewalnes",
             "repo": "websocketd",
-            "stars": 17466
+            "stars": 17466,
+            "topics": [
+              "proxy",
+              "websocket-server",
+              "websockets"
+            ]
           },
           "first_seen": "2026-08-28T19:37:29.261Z"
         },
@@ -2535,12 +4214,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions",
+            "homepage": null,
             "id": 74579985,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-13T10:17:56Z",
+            "open_issues": 158,
             "owner": "vi",
             "repo": "websocat",
-            "stars": 8676
+            "stars": 8676,
+            "topics": [
+              "cli",
+              "command-line",
+              "command-line-tool",
+              "curl",
+              "netcat",
+              "proxy",
+              "rfc-6455",
+              "socat",
+              "websocket-client",
+              "websocket-server",
+              "websockets"
+            ]
           },
           "first_seen": "2026-08-28T19:37:29.261Z"
         },
@@ -2551,12 +4247,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebSocket cat",
+            "homepage": null,
             "id": 29905549,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-05-03T17:06:05Z",
+            "open_issues": 36,
             "owner": "websockets",
             "repo": "wscat",
-            "stars": 2772
+            "stars": 2772,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:37:29.261Z"
         },
@@ -2567,12 +4268,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A CLI development tool for WebSocket APIs",
+            "homepage": null,
             "id": 57909325,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2018-11-06T07:18:04Z",
+            "open_issues": 12,
             "owner": "eliihen",
             "repo": "wsta",
-            "stars": 632
+            "stars": 632,
+            "topics": [
+              "cli",
+              "developer-tools",
+              "rust",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-28T19:37:29.261Z"
         },
@@ -2583,12 +4294,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "websocket command line tool",
+            "homepage": null,
             "id": 67074004,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-03-08T14:04:35Z",
+            "open_issues": 17,
             "owner": "hashrocket",
             "repo": "ws",
-            "stars": 434
+            "stars": 434,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:37:29.261Z"
         },
@@ -2599,12 +4315,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome WebSocket CLient - an interactive command line client for testing websocket servers",
+            "homepage": null,
             "id": 95054584,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-01-24T10:23:59Z",
+            "open_issues": 7,
             "owner": "thehowl",
             "repo": "claws",
-            "stars": 315
+            "stars": 315,
+            "topics": [
+              "cli",
+              "command-line-app",
+              "debugging",
+              "gocui",
+              "websocket",
+              "websocket-client",
+              "websockets"
+            ]
           },
           "first_seen": "2026-08-28T19:37:29.261Z"
         },
@@ -2615,12 +4344,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "wssh (\"wish\") is a command-line utility/shell for WebSocket inspired by netcat",
+            "homepage": null,
             "id": 2921690,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-09-25T18:46:46Z",
+            "open_issues": 24,
             "owner": "progrium",
             "repo": "wssh",
-            "stars": 267
+            "stars": 267,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:37:29.261Z"
         },
@@ -2631,12 +4365,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔄 iola: Command-line socket client with REST API.",
+            "homepage": null,
             "id": 366321525,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-10-12T21:28:39Z",
+            "open_issues": 0,
             "owner": "pvarentsov",
             "repo": "iola",
-            "stars": 170
+            "stars": 170,
+            "topics": [
+              "iola",
+              "socket-client",
+              "socketio-client",
+              "tcp-client",
+              "unix-socket-client",
+              "websocket-client"
+            ]
           },
           "first_seen": "2026-08-28T19:37:29.261Z"
         },
@@ -2647,12 +4393,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tiny command line websocket client written in Go",
+            "homepage": null,
             "id": 53469945,
             "language": "Go",
+            "license": null,
             "last_commit": "2017-10-26T20:03:38Z",
+            "open_issues": 3,
             "owner": "raphael",
             "repo": "wsc",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:37:29.261Z"
         },
@@ -2663,12 +4414,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Develop Tool to Test WebSocket, Socket.IO, Stomp, Bayeux, HTTP, TCP, UDP, WebRTC, DNS API.",
+            "homepage": "https://plantain-00.github.io/ws-tool/",
             "id": 56235826,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2021-09-25T02:24:04Z",
+            "open_issues": 0,
             "owner": "plantain-00",
             "repo": "ws-tool",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "backend-api-test-tool",
+              "bayeux",
+              "http",
+              "socketio",
+              "stomp",
+              "tcp",
+              "udp",
+              "webrtc",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-28T19:37:29.261Z"
         },
@@ -2679,12 +4445,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebSocket Command Line Client written in Go",
+            "homepage": null,
             "id": 69024843,
             "language": "Go",
+            "license": "BSD-2-Clause",
             "last_commit": "2016-10-14T16:26:57Z",
+            "open_issues": 1,
             "owner": "kseo",
             "repo": "ws-cli",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:37:29.261Z"
         }
@@ -2693,15 +4464,35 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:37:29.261Z",
+    "last_updated": "2026-08-29T04:26:36.850Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of Websocket libraries and resources.",
+      "homepage": null,
       "id": 74018561,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2026-08-17T08:38:52Z",
+      "open_issues": 3,
       "owner": "facundofarias",
       "repo": "awesome-websockets",
-      "stars": 1858
+      "stars": 1858,
+      "topics": [
+        "html5-websockets",
+        "node-websocket",
+        "php-websocket",
+        "websocket",
+        "websocket-api",
+        "websocket-chat",
+        "websocket-client",
+        "websocket-library",
+        "websocket-node",
+        "websocket-protocol",
+        "websocket-rails",
+        "websocket-server",
+        "websocketd",
+        "websockets"
+      ]
     },
     "original_repository_sha": "fb23eb45225f0585aa6d02773f42eecc78ee8e3a",
     "enhanced_repository": "enhansome/enhansome-websockets",
