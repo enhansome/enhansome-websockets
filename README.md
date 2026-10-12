@@ -58,7 +58,7 @@ A curated list of WebSockets related principles and technologies.
 
 ### Agnostic
 
-* [Centrifugo](https://github.com/centrifugal/centrifugo) ⭐ 10,851 | 🐛 26 | 🌐 Go | 📅 2026-10-10 - Scalable real-time messaging in language-agnostic way.
+* [Centrifugo](https://github.com/centrifugal/centrifugo) ⭐ 10,856 | 🐛 26 | 🌐 Go | 📅 2026-10-10 - Scalable real-time messaging in language-agnostic way.
 * [SocketCluster](https://github.com/SocketCluster/socketcluster) ⭐ 6,195 | 🐛 101 | 🌐 JavaScript | 📅 2026-10-09 - Scalable pub/sub WebSocket framework with support for horizontal scaling across multiple hosts and processes.
 * [gwsocket](https://github.com/allinurl/gwsocket) ⭐ 821 | 🐛 12 | 🌐 C | 📅 2026-07-06 - Fast, standalone, language-agnostic WebSocket server RFC6455 compliant.
 * [MinnowServer](https://github.com/RealTimeLogic/MinnowServer) ⭐ 339 | 🐛 2 | 🌐 C | 📅 2024-09-23 - A super small and fast embedded HTTP(S) WebSocket server.
@@ -72,9 +72,9 @@ A curated list of WebSockets related principles and technologies.
 
 ### C
 
-* [mongoose](https://github.com/cesanta/mongoose) ⭐ 13,082 | 🐛 3 | 🌐 C | 📅 2026-10-11 - Mongoose Embedded Web Server Library - Mongoose is more than an embedded webserver. It is a multi-protocol embedded networking library with functions including TCP, HTTP client and server, WebSocket client and server, MQTT client and broker and much more.
-* [civetweb](https://github.com/civetweb/civetweb) ⭐ 3,463 | 🐛 249 | 🌐 C | 📅 2026-08-01 - Embedded C/C++ web server with WebSocket client and server support, easy to integrate.
-* [Wslay](https://github.com/tatsuhiro-t/wslay) ⭐ 675 | 🐛 33 | 🌐 C | 📅 2022-08-25 - Designed to be embedded in other programs; freedom to choose your own network I/O. Event-based API, as well as synchronous frame-based.
+* [mongoose](https://github.com/cesanta/mongoose) ⭐ 13,081 | 🐛 4 | 🌐 C | 📅 2026-10-11 - Mongoose Embedded Web Server Library - Mongoose is more than an embedded webserver. It is a multi-protocol embedded networking library with functions including TCP, HTTP client and server, WebSocket client and server, MQTT client and broker and much more.
+* [civetweb](https://github.com/civetweb/civetweb) ⭐ 3,464 | 🐛 249 | 🌐 C | 📅 2026-08-01 - Embedded C/C++ web server with WebSocket client and server support, easy to integrate.
+* [Wslay](https://github.com/tatsuhiro-t/wslay) ⭐ 676 | 🐛 33 | 🌐 C | 📅 2022-08-25 - Designed to be embedded in other programs; freedom to choose your own network I/O. Event-based API, as well as synchronous frame-based.
 * [libuwsc](https://github.com/zhaojh329/libuwsc) ⭐ 291 | 🐛 10 | 🌐 C | 📅 2022-02-21 - A Lightweight and fully asynchronous WebSocket client C library based on libubox for Embedded Linux.
 * [Websocket](https://github.com/mortzdk/Websocket) ⭐ 206 | 🐛 0 | 🌐 C | 📅 2023-09-05 -  Websocket server written in C.
 * [WebSockets in C](https://github.com/cjhdev/wic) ⭐ 79 | 🐛 3 | 🌐 C | 📅 2023-05-01 - A minimal implementation for embedded applications.
@@ -85,14 +85,14 @@ A curated list of WebSockets related principles and technologies.
 
 <!-- #c-1 anchor -->
 
-* [µWebSockets](https://github.com/uNetworking/uWebSockets) ⭐ 18,999 | 🐛 54 | 🌐 C++ | 📅 2026-10-05 -  Highly scalable WebSocket server library.
-* [Drogon](https://github.com/an-tao/drogon) ⭐ 14,324 | 🐛 429 | 🌐 C++ | 📅 2026-10-11 - Fast C++14/17/20 HTTP application framework with built-in WebSocket controllers.
-* [POCO](https://github.com/pocoproject/poco) ⭐ 9,486 | 🐛 141 | 🌐 C++ | 📅 2026-10-09 - C++ libraries for network-centric applications, including HTTP and WebSocket classes.
-* [Oat++](https://github.com/oatpp/oatpp) ⭐ 8,656 | 🐛 351 | 🌐 C++ | 📅 2025-11-12 - Light and powerful C++ web framework with async WebSocket support and zero dependencies.
+* [µWebSockets](https://github.com/uNetworking/uWebSockets) ⭐ 18,998 | 🐛 54 | 🌐 C++ | 📅 2026-10-05 -  Highly scalable WebSocket server library.
+* [Drogon](https://github.com/an-tao/drogon) ⭐ 14,331 | 🐛 428 | 🌐 C++ | 📅 2026-10-12 - Fast C++14/17/20 HTTP application framework with built-in WebSocket controllers.
+* [POCO](https://github.com/pocoproject/poco) ⭐ 9,486 | 🐛 142 | 🌐 C++ | 📅 2026-10-12 - C++ libraries for network-centric applications, including HTTP and WebSocket classes.
+* [Oat++](https://github.com/oatpp/oatpp) ⭐ 8,657 | 🐛 351 | 🌐 C++ | 📅 2025-11-12 - Light and powerful C++ web framework with async WebSocket support and zero dependencies.
 * [Websocketpp](https://github.com/zaphoyd/websocketpp) ⭐ 7,715 | 🐛 484 | 🌐 C++ | 📅 2026-05-04 - C++ Websocket client/server library.
-* [libhv](https://github.com/ithewei/libhv) ⭐ 7,556 | 🐛 53 | 🌐 C | 📅 2026-10-10 - A network library for developing TCP/UDP/SSL/HTTP/WebSocket client/server.
-* [Crow](https://github.com/CrowCpp/Crow) ⭐ 4,998 | 🐛 85 | 🌐 C++ | 📅 2026-10-09 - Fast and easy-to-use C++ microframework for the web, with WebSocket support.
-* [Beast](https://github.com/boostorg/beast) ⭐ 4,829 | 🐛 105 | 🌐 C++ | 📅 2026-10-09 - HTTP and WebSocket built on Boost.Asio in C++11.
+* [libhv](https://github.com/ithewei/libhv) ⭐ 7,556 | 🐛 49 | 🌐 C | 📅 2026-10-12 - A network library for developing TCP/UDP/SSL/HTTP/WebSocket client/server.
+* [Crow](https://github.com/CrowCpp/Crow) ⭐ 4,999 | 🐛 84 | 🌐 C++ | 📅 2026-10-12 - Fast and easy-to-use C++ microframework for the web, with WebSocket support.
+* [Beast](https://github.com/boostorg/beast) ⭐ 4,830 | 🐛 105 | 🌐 C++ | 📅 2026-10-09 - HTTP and WebSocket built on Boost.Asio in C++11.
 * [Simple-WebSocket-Server](https://github.com/eidheim/Simple-WebSocket-Server) ⚠️ Archived -  A very simple, fast, multithreaded, platform independent WebSocket (WS) and WebSocket Secure (WSS) server and client library implemented using C++11, Boost.Asio and OpenSSL.
 * [IXWebSocket](https://github.com/machinezone/IXWebSocket) ⭐ 797 | 🐛 74 | 🌐 C++ | 📅 2026-09-21 - Lightweight C++11 multi-threaded client library with TLS support.
 * [LAppS](https://github.com/ITpC/LAppS) ⭐ 53 | 🐛 3 | 🌐 C++ | 📅 2021-01-15 - LAppS - Lua Application Server for micro-services with default communication over WebSockets.
@@ -102,13 +102,13 @@ A curated list of WebSockets related principles and technologies.
 
 <!-- #c-2 anchor -->
 
-* [websocket-sharp](https://github.com/sta/websocket-sharp) ⭐ 6,079 | 🐛 559 | 🌐 C# | 📅 2026-09-07 - A C# implementation of the WebSocket protocol client and server.
+* [websocket-sharp](https://github.com/sta/websocket-sharp) ⭐ 6,079 | 🐛 559 | 🌐 C# | 📅 2026-10-11 - A C# implementation of the WebSocket protocol client and server.
 * [Fleck](https://github.com/statianzo/Fleck) ⭐ 2,441 | 🐛 83 | 🌐 C# | 📅 2024-07-03 - Simple C# WebSocket server implementation with no dependencies.
 * [NetGain](https://github.com/StackExchange/NetGain) ⚠️ Archived - A high performance websocket server library powering Stack Overflow.
 * [websocket-client](https://github.com/Marfusios/websocket-client) ⭐ 760 | 🐛 56 | 🌐 C# | 📅 2026-09-24 - Reactive, reconnecting WebSocket client for .NET based on System.Net.WebSockets.
 * [websocket-manager](https://github.com/radu-matei/websocket-manager) ⭐ 454 | 🐛 34 | 🌐 C# | 📅 2020-12-31 - Real-Time library for ASP .NET Core.
 * [WebSockets](https://github.com/aspnet/WebSockets) ⚠️ Archived - Implementation of the WebSocket protocol, along with client and server integration components.
-* [Ninja.WebSockets](https://github.com/ninjasource/Ninja.WebSockets) ⭐ 172 | 🐛 2 | 🌐 C# | 📅 2020-11-09 - Standalone, high-performance C# WebSocket client and server implementation.
+* [Ninja.WebSockets](https://github.com/ninjasource/Ninja.WebSockets) ⭐ 171 | 🐛 2 | 🌐 C# | 📅 2020-11-09 - Standalone, high-performance C# WebSocket client and server implementation.
 * [websocket-rpc](https://github.com/dajuric/websocket-rpc) ⚠️ Archived - WebSocket RPC library for .NET with auto JavaScript client code generation, supporting ASP.NET Core.
 * [unity-websocket-server](https://github.com/shaunabanana/unity-websocket-server) ⭐ 83 | 🐛 5 | 🌐 C# | 📅 2022-06-28 - A simple, zero-dependency WebSocket server for Unity.
 * [ASP.NET SignalR](http://signalr.net) - Incredibly simple real-time web for .NET.
@@ -126,33 +126,33 @@ A curated list of WebSockets related principles and technologies.
 
 ### Elixir
 
-* [Phoenix](https://github.com/phoenixframework/phoenix) ⭐ 23,174 | 🐛 49 | 🌐 Elixir | 📅 2026-10-10 - Productive Elixir web framework with Channels for realtime, scalable WebSocket communication.
-* [Phoenix LiveView](https://github.com/phoenixframework/phoenix_live_view) ⭐ 6,831 | 🐛 30 | 🌐 Elixir | 📅 2026-10-09 - Rich, realtime server-rendered UIs over WebSockets without writing JavaScript.
-* [Bandit](https://github.com/mtrudel/bandit) ⭐ 1,923 | 🐛 17 | 🌐 Elixir | 📅 2026-09-28 - Pure-Elixir HTTP and WebSocket server built for Plug and WebSock.
+* [Phoenix](https://github.com/phoenixframework/phoenix) ⭐ 23,179 | 🐛 48 | 🌐 Elixir | 📅 2026-10-12 - Productive Elixir web framework with Channels for realtime, scalable WebSocket communication.
+* [Phoenix LiveView](https://github.com/phoenixframework/phoenix_live_view) ⭐ 6,832 | 🐛 30 | 🌐 Elixir | 📅 2026-10-09 - Rich, realtime server-rendered UIs over WebSockets without writing JavaScript.
+* [Bandit](https://github.com/mtrudel/bandit) ⭐ 1,922 | 🐛 8 | 🌐 Elixir | 📅 2026-10-12 - Pure-Elixir HTTP and WebSocket server built for Plug and WebSock.
 * [WebSockex](https://github.com/Azolo/websockex) ⭐ 560 | 🐛 22 | 🌐 Elixir | 📅 2025-12-01 - Elixir WebSocket client library built on top of GenServer.
 
 ### Erlang
 
 * [Cowboy](https://github.com/ninenines/cowboy) ⭐ 7,520 | 🐛 60 | 🌐 Erlang | 📅 2026-10-09 - Small, fast, modular HTTP server written in Erlang.
 * [n2o](https://github.com/synrc/n2o) ⭐ 1,340 | 🐛 1 | 🌐 Erlang | 📅 2026-06-04 - Erlang web server on websockets.
-* [Gun](https://github.com/ninenines/gun) ⭐ 950 | 🐛 34 | 🌐 Erlang | 📅 2026-10-09 - Erlang HTTP/1.1, HTTP/2 and WebSocket client library.
+* [Gun](https://github.com/ninenines/gun) ⭐ 950 | 🐛 35 | 🌐 Erlang | 📅 2026-10-09 - Erlang HTTP/1.1, HTTP/2 and WebSocket client library.
 * [Kraken](https://github.com/Asana/kraken) ⚠️ Archived - Distributed Pubsub Server for Realtime Apps.
 * [Sockjs-erlang](https://github.com/sockjs/sockjs-erlang) ⭐ 265 | 🐛 19 | 🌐 Erlang | 📅 2017-04-04 - WebSocket emulation - Erlang server.
 
 ### Go
 
-* [Gorilla Websocket](https://github.com/gorilla/websocket) ⭐ 24,873 | 🐛 85 | 🌐 Go | 📅 2025-03-19 - WebSocket implementation for Go.
-* [Ws](https://github.com/gobwas/ws) ⭐ 6,468 | 🐛 31 | 🌐 Go | 📅 2026-02-12 - Tiny WebSocket library for Go.
-* [1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) ⭐ 5,994 | 🐛 3 | 🌐 Go | 📅 2022-08-14 - Handling 1M websockets connections in Go.
+* [Gorilla Websocket](https://github.com/gorilla/websocket) ⭐ 24,870 | 🐛 85 | 🌐 Go | 📅 2025-03-19 - WebSocket implementation for Go.
+* [Ws](https://github.com/gobwas/ws) ⭐ 6,467 | 🐛 31 | 🌐 Go | 📅 2026-02-12 - Tiny WebSocket library for Go.
+* [1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) ⭐ 5,993 | 🐛 3 | 🌐 Go | 📅 2022-08-14 - Handling 1M websockets connections in Go.
 * [go-socket.io](https://github.com/googollee/go-socket.io) ⚠️ Archived - Socket.IO library for Go, a realtime application framework.
-* [coder/websocket](https://github.com/coder/websocket) ⭐ 5,507 | 🐛 74 | 🌐 Go | 📅 2026-06-15 - A minimal and idiomatic WebSocket library for Go (formerly nhooyr/websocket).
-* [Melody](https://github.com/olahol/melody) ⭐ 4,078 | 🐛 14 | 🌐 Go | 📅 2025-10-28 - Minimalist framework for dealing with WebSocket sessions, including broadcasting and message buffering.
+* [coder/websocket](https://github.com/coder/websocket) ⭐ 5,511 | 🐛 74 | 🌐 Go | 📅 2026-06-15 - A minimal and idiomatic WebSocket library for Go (formerly nhooyr/websocket).
+* [Melody](https://github.com/olahol/melody) ⭐ 4,079 | 🐛 14 | 🌐 Go | 📅 2025-10-28 - Minimalist framework for dealing with WebSocket sessions, including broadcasting and message buffering.
 * [nbio](https://github.com/lesismal/nbio) ⭐ 2,752 | 🐛 0 | 🌐 Go | 📅 2026-10-05 - Non-blocking, event-driven networking framework with high-performance WebSocket support and low memory usage.
 * [GWS](https://github.com/lxzan/gws) ⭐ 1,799 | 🐛 0 | 🌐 Go | 📅 2026-09-11 - Simple, fast, reliable websocket server & client, supports running over tcp/kcp/unix domain socket.
 * [Centrifuge](https://github.com/centrifugal/centrifuge) ⭐ 1,488 | 🐛 16 | 🌐 Go | 📅 2026-10-11 - Real-time messaging library for Go with scalability in mind.
 * [Fiber WebSocket](https://github.com/gofiber/websocket) ⚠️ Archived - WebSocket middleware for the Fiber web framework, built on Fasthttp.
-* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 143 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-11 - AI-powered multi-cluster Kubernetes dashboard using WebSockets for real-time cluster communication and live observability streams.
-* [greatws](https://github.com/antlabs/greatws) ⭐ 86 | 🐛 4 | 🌐 Go | 📅 2026-10-11 - Event-driven WebSocket server able to handle millions of connections with low memory.
+* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 143 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-12 - AI-powered multi-cluster Kubernetes dashboard using WebSockets for real-time cluster communication and live observability streams.
+* [greatws](https://github.com/antlabs/greatws) ⭐ 86 | 🐛 4 | 🌐 Go | 📅 2026-10-12 - Event-driven WebSocket server able to handle millions of connections with low memory.
 * [Velaros](https://github.com/RobertWHurst/Velaros) ⭐ 8 | 🐛 1 | 🌐 Go | 📅 2026-07-24 - A lightweight framework with HTTP-style routing, bidirectional messaging, and middleware.
 * [gotify/server](https://gotify.net/) - A simple server for sending and receiving messages in real-time per web socket.
 * [Websocket](https://godoc.org/golang.org/x/net/websocket) - Package Websocket implements a client and server for the WebSocket protocol as specified in RFC 6455.
@@ -173,12 +173,12 @@ A curated list of WebSockets related principles and technologies.
 
 #### Java
 
-* [Netty](https://github.com/netty/netty) ⭐ 35,063 | 🐛 756 | 🌐 Java | 📅 2026-10-06 - Asynchronous event-driven network framework with full WebSocket codec support.
-* [Vert.x](https://github.com/eclipse-vertx/vert.x) ⭐ 14,687 | 🐛 222 | 🌐 Java | 📅 2026-10-11 - Reactive, polyglot toolkit for the JVM with first-class WebSocket client and server APIs.
-* [Java-WebSocket](https://github.com/TooTallNate/Java-WebSocket) ⭐ 10,803 | 🐛 61 | 🌐 Java | 📅 2026-01-13 - Barebones WebSocket client and server implementation written in 100% Java.
+* [Netty](https://github.com/netty/netty) ⭐ 35,059 | 🐛 757 | 🌐 Java | 📅 2026-10-06 - Asynchronous event-driven network framework with full WebSocket codec support.
+* [Vert.x](https://github.com/eclipse-vertx/vert.x) ⭐ 14,686 | 🐛 220 | 🌐 Java | 📅 2026-10-12 - Reactive, polyglot toolkit for the JVM with first-class WebSocket client and server APIs.
+* [Java-WebSocket](https://github.com/TooTallNate/Java-WebSocket) ⭐ 10,801 | 🐛 61 | 🌐 Java | 📅 2026-01-13 - Barebones WebSocket client and server implementation written in 100% Java.
 * [Javalin](https://github.com/javalin/javalin) ⭐ 8,365 | 🐛 31 | 🌐 Kotlin | 📅 2026-10-08 - Lightweight web framework for Java and Kotlin with simple WebSocket handlers.
-* [Jetty](https://github.com/jetty/jetty.project) ⭐ 4,097 | 🐛 295 | 🌐 Java | 📅 2026-10-11 - Lightweight, embeddable Java web server and servlet container with Jakarta and native WebSocket support.
-* [Atmosphere](https://github.com/Atmosphere/atmosphere) ⭐ 3,820 | 🐛 8 | 🌐 Java | 📅 2026-10-09 - Realtime Client Server Framework for the JVM, supporting WebSockets with Cross-Browser Fallbacks.
+* [Jetty](https://github.com/jetty/jetty.project) ⭐ 4,097 | 🐛 290 | 🌐 Java | 📅 2026-10-12 - Lightweight, embeddable Java web server and servlet container with Jakarta and native WebSocket support.
+* [Atmosphere](https://github.com/Atmosphere/atmosphere) ⭐ 3,820 | 🐛 8 | 🌐 Java | 📅 2026-10-12 - Realtime Client Server Framework for the JVM, supporting WebSockets with Cross-Browser Fallbacks.
 * [Undertow](https://github.com/undertow-io/undertow) ⭐ 3,761 | 🐛 40 | 🌐 Java | 📅 2026-10-08 - High-performance web server (WildFly's core) with a dedicated WebSocket API.
 * [nv-websocket-client](https://github.com/TakahikoKawasaki/nv-websocket-client) ⭐ 2,053 | 🐛 93 | 🌐 Java | 📅 2024-01-28 - High-quality WebSocket client implementation in Java which.
 * [Webbit](https://github.com/webbit/webbit) ⭐ 819 | 🐛 47 | 🌐 Java | 📅 2023-12-17 - Java event based WebSocket and HTTP server.
@@ -187,15 +187,15 @@ A curated list of WebSockets related principles and technologies.
 
 #### Kotlin
 
-* [OkHttp](https://github.com/square/okhttp) ⭐ 47,086 | 🐛 157 | 🌐 Kotlin | 📅 2026-10-08 - HTTP client for the JVM and Android with a robust WebSocket client.
-* [Ktor](https://github.com/ktorio/ktor) ⭐ 14,543 | 🐛 203 | 🌐 Kotlin | 📅 2026-10-09 - JetBrains' Kotlin async framework with built-in WebSocket client and server support.
+* [OkHttp](https://github.com/square/okhttp) ⭐ 47,084 | 🐛 157 | 🌐 Kotlin | 📅 2026-10-08 - HTTP client for the JVM and Android with a robust WebSocket client.
+* [Ktor](https://github.com/ktorio/ktor) ⭐ 14,544 | 🐛 130 | 🌐 Kotlin | 📅 2026-10-12 - JetBrains' Kotlin async framework with built-in WebSocket client and server support.
 * [Scarlet](https://github.com/Tinder/Scarlet) ⭐ 3,257 | 🐛 108 | 🌐 Kotlin | 📅 2025-11-21 - Tinder's Retrofit inspired WebSocket client for Kotlin, Java, and Android.
 
 #### Scala
 
 * [http4s](https://github.com/http4s/http4s) ⭐ 2,626 | 🐛 372 | 🌐 Scala | 📅 2026-10-09 - Typeful, functional, streaming HTTP for Scala with WebSocket support.
-* [ZIO HTTP](https://github.com/zio/zio-http) ⭐ 876 | 🐛 58 | 🌐 Scala | 📅 2026-10-09 - High-performance, functional Scala HTTP library with WebSocket support built on ZIO.
-* [Apache Pekko HTTP](https://github.com/apache/pekko-http) ⭐ 196 | 🐛 64 | 🌐 Scala | 📅 2026-10-11 - Streaming WebSocket client and server directives; the Apache-licensed Akka HTTP fork.
+* [ZIO HTTP](https://github.com/zio/zio-http) ⭐ 876 | 🐛 58 | 🌐 Scala | 📅 2026-10-12 - High-performance, functional Scala HTTP library with WebSocket support built on ZIO.
+* [Apache Pekko HTTP](https://github.com/apache/pekko-http) ⭐ 196 | 🐛 62 | 🌐 Scala | 📅 2026-10-12 - Streaming WebSocket client and server directives; the Apache-licensed Akka HTTP fork.
 * [Finagle-websocket](https://github.com/finagle/finagle-websocket) ⭐ 37 | 🐛 7 | 🌐 Scala | 📅 2017-12-21 - Finagle Websocket clients and servers.
 * [Play](https://www.playframework.com/documentation/2.5.x/ScalaWebSockets) - The high velocity web framework for Java and Scala.
 
@@ -206,10 +206,10 @@ A curated list of WebSockets related principles and technologies.
 
 ### Node.js / JavaScript
 
-* [Ws](https://github.com/websockets/ws) ⭐ 22,806 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-09 - `ws`: The fastest cross platform RFC-6455 WebSocket implementation for Node.js.
-* [uws](https://github.com/uNetworking/uWebSockets.js) ⭐ 9,170 | 🐛 21 | 🌐 C++ | 📅 2026-10-11 - Tiny WebSockets (access to the C++ library, µWebSockets, via Node.js)
+* [Ws](https://github.com/websockets/ws) ⭐ 22,808 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-09 - `ws`: The fastest cross platform RFC-6455 WebSocket implementation for Node.js.
+* [uws](https://github.com/uNetworking/uWebSockets.js) ⭐ 9,173 | 🐛 21 | 🌐 C++ | 📅 2026-10-11 - Tiny WebSockets (access to the C++ library, µWebSockets, via Node.js)
 * [PartySocket](https://github.com/partykit/partykit/tree/main/packages/partysocket) ⭐ 5,729 | 🐛 92 | 🌐 TypeScript | 📅 2026-10-09 - Robust WebSocket client with automatic reconnection and buffering, usable against any WS server.
-* [soketi](https://github.com/soketi/soketi) ⭐ 5,636 | 🐛 142 | 🌐 TypeScript | 📅 2025-03-03 - Just another simple, fast, and resilient open-source WebSockets server. Built on top of uWebSockets.js.
+* [soketi](https://github.com/soketi/soketi) ⭐ 5,637 | 🐛 142 | 🌐 TypeScript | 📅 2025-03-03 - Just another simple, fast, and resilient open-source WebSockets server. Built on top of uWebSockets.js.
 * [WebSocket-Node](https://github.com/theturtle32/WebSocket-Node) ⭐ 3,779 | 🐛 74 | 🌐 JavaScript | 📅 2025-10-06 - WebSocket Implementation for Node.JS (Draft -08 through the final RFC 6455).
 * [Sockette](https://github.com/lukeed/sockette) ⭐ 2,465 | 🐛 10 | 🌐 JavaScript | 📅 2024-01-20 - WebSocket client that will automatically reconnect if the connection is lost.
 * [Sockjs-node](https://github.com/sockjs/sockjs-node) ⭐ 2,099 | 🐛 19 | 🌐 JavaScript | 📅 2026-09-06 - WebSocket emulation - Node.js server.
@@ -249,11 +249,11 @@ A curated list of WebSockets related principles and technologies.
 
 ### Python
 
-* [FastAPI](https://github.com/fastapi/fastapi) ⭐ 103,014 | 🐛 88 | 🌐 Python | 📅 2026-10-08 - Modern, high-performance web framework for building APIs, with first-class WebSocket support.
-* [aiohttp](https://github.com/aio-libs/aiohttp) ⭐ 16,573 | 🐛 223 | 🌐 Python | 📅 2026-10-11 - Asynchronous HTTP client/server framework for asyncio, with built-in WebSocket client and server support.
-* [Websockets](https://websockets.readthedocs.io) ([code](https://github.com/aaugustin/websockets) ⭐ 5,735 | 🐛 1 | 🌐 Python | 📅 2026-10-10) - Websockets is a library for developing WebSocket servers and clients in Python 3.
+* [FastAPI](https://github.com/fastapi/fastapi) ⭐ 103,052 | 🐛 88 | 🌐 Python | 📅 2026-10-08 - Modern, high-performance web framework for building APIs, with first-class WebSocket support.
+* [aiohttp](https://github.com/aio-libs/aiohttp) ⭐ 16,574 | 🐛 227 | 🌐 Python | 📅 2026-10-12 - Asynchronous HTTP client/server framework for asyncio, with built-in WebSocket client and server support.
+* [Websockets](https://websockets.readthedocs.io) ([code](https://github.com/aaugustin/websockets) ⭐ 5,734 | 🐛 1 | 🌐 Python | 📅 2026-10-10) - Websockets is a library for developing WebSocket servers and clients in Python 3.
 * [python-socketio](https://github.com/miguelgrinberg/python-socketio) ⭐ 4,370 | 🐛 0 | 🌐 Python | 📅 2026-09-14 - Python implementation of the Socket.IO realtime client and server.
-* [websocket-client](https://github.com/websocket-client/websocket-client) ⭐ 3,708 | 🐛 36 | 🌐 Python | 📅 2026-09-24 - Popular, long-standing synchronous client for Python.
+* [websocket-client](https://github.com/websocket-client/websocket-client) ⭐ 3,708 | 🐛 38 | 🌐 Python | 📅 2026-09-24 - Popular, long-standing synchronous client for Python.
 * [Autobahn.ws](https://github.com/crossbario/autobahn-python) ⭐ 2,541 | 🐛 198 | 🌐 Python | 📅 2026-10-10 - Open-source real-time framework for Web, Mobile & Internet of Things.
 * [Socketify.py](https://github.com/cirospaciari/socketify.py) ⭐ 1,716 | 🐛 51 | 🌐 Python | 📅 2026-08-17 - Fast WebSocket and HTTP server for Python built on uWebSockets, with ASGI/WSGI support.
 * [python-websocket-server](https://github.com/Pithikos/python-websocket-server) ⭐ 1,178 | 🐛 41 | 🌐 Python | 📅 2025-10-07 - Minimal, dependency-free WebSocket server written in pure Python.
@@ -269,7 +269,7 @@ A curated list of WebSockets related principles and technologies.
 
 ### R
 
-* [httpuv](https://cran.r-project.org/package=httpuv) - Provides low-level socket and protocol support for WebSocket (and HTTP) servers in R. Built on top of the [libuv](https://github.com/libuv/libuv) ⭐ 27,239 | 🐛 242 | 🌐 C | 📅 2026-10-10 and [http-parser](https://github.com/nodejs/http-parser) ⚠️ Archived C libraries.
+* [httpuv](https://cran.r-project.org/package=httpuv) - Provides low-level socket and protocol support for WebSocket (and HTTP) servers in R. Built on top of the [libuv](https://github.com/libuv/libuv) ⭐ 27,243 | 🐛 243 | 🌐 C | 📅 2026-10-10 and [http-parser](https://github.com/nodejs/http-parser) ⚠️ Archived C libraries.
 * [routr](https://cran.r-project.org/package=routr) - A simple router for WebSocket (and HTTP) requests in R.
 * [websocket](https://cran.r-project.org/package=websocket) - Provides a WebSocket client interface for R.
 
@@ -278,10 +278,10 @@ A curated list of WebSockets related principles and technologies.
 * [websocket-rails](https://github.com/websocket-rails/websocket-rails) ⭐ 1,714 | 🐛 200 | 🌐 Ruby | 📅 2024-02-14 - Plug and play websocket support for ruby on rails.
 * [Em-websocket](https://github.com/igrigorik/em-websocket) ⭐ 1,689 | 🐛 26 | 🌐 Ruby | 📅 2021-11-11 - EventMachine based WebSocket server.
 * [Slanger](https://github.com/stevegraham/slanger) ⚠️ Archived - Open Pusher implementation compatible with Pusher libraries.
-* [Rage](https://github.com/rage-rb/rage) ⭐ 1,441 | 🐛 16 | 🌐 Ruby | 📅 2026-10-09 - Fast WebSocket server compatible with Action Cable.
+* [Rage](https://github.com/rage-rb/rage) ⭐ 1,442 | 🐛 15 | 🌐 Ruby | 📅 2026-10-12 - Fast WebSocket server compatible with Action Cable.
 * [render\_sync](https://github.com/chrismccord/render_sync) ⭐ 1,384 | 🐛 39 | 🌐 Ruby | 📅 2019-05-25 - Real-time Rails Partials.
 * [Faye-websocket-ruby](https://github.com/faye/faye-websocket-ruby) ⭐ 1,062 | 🐛 6 | 🌐 Ruby | 📅 2025-05-25 - Standards-compliant WebSocket client and server.
-* [Iodine](https://github.com/boazsegev/iodine) ⭐ 973 | 🐛 24 | 🌐 C | 📅 2026-10-09 - WebSocket/HTTP server with integrated pub/sub and optional Redis support.
+* [Iodine](https://github.com/boazsegev/iodine) ⭐ 973 | 🐛 22 | 🌐 C | 📅 2026-10-12 - WebSocket/HTTP server with integrated pub/sub and optional Redis support.
 * [Websocket-ruby](https://github.com/imanel/websocket-ruby) ⭐ 464 | 🐛 3 | 🌐 Ruby | 📅 2026-07-25 - Universal Ruby library to handle WebSocket protocol.
 * [Scorched](https://github.com/wardrop/Scorched) ⭐ 274 | 🐛 0 | 🌐 Ruby | 📅 2026-07-31 - Light-weight web framework for Ruby.
 * [Websocket-driver-ruby](https://github.com/faye/websocket-driver-ruby) ⭐ 238 | 🐛 11 | 🌐 Ruby | 📅 2026-06-23 - WebSocket protocol handler with pluggable I/O.
@@ -290,15 +290,15 @@ A curated list of WebSockets related principles and technologies.
 
 ### Rust
 
-* [Axum](https://github.com/tokio-rs/axum) ⭐ 27,444 | 🐛 88 | 🌐 Rust | 📅 2026-10-11 - Ergonomic and modular web framework built with Tokio, Tower, and Hyper, with built-in WebSocket support.
-* [warp](https://github.com/seanmonstar/warp) ⭐ 10,379 | 🐛 233 | 🌐 Rust | 📅 2026-07-28 - Composable, Tokio-based web server framework with a WebSocket filter.
-* [ntex](https://github.com/ntex-rs/ntex) ⭐ 2,541 | 🐛 4 | 🌐 Rust | 📅 2026-10-11 - Powerful, pragmatic and fast web framework with WebSocket support.
-* [Tokio-Tungstenite](https://github.com/snapview/tokio-tungstenite) ⭐ 2,511 | 🐛 20 | 🌐 Rust | 📅 2026-07-11 - Tokio binding for Tungstenite, the Lightweight stream-based WebSocket implementation
+* [Axum](https://github.com/tokio-rs/axum) ⭐ 27,453 | 🐛 88 | 🌐 Rust | 📅 2026-10-11 - Ergonomic and modular web framework built with Tokio, Tower, and Hyper, with built-in WebSocket support.
+* [warp](https://github.com/seanmonstar/warp) ⭐ 10,378 | 🐛 233 | 🌐 Rust | 📅 2026-07-28 - Composable, Tokio-based web server framework with a WebSocket filter.
+* [ntex](https://github.com/ntex-rs/ntex) ⭐ 2,541 | 🐛 3 | 🌐 Rust | 📅 2026-10-12 - Powerful, pragmatic and fast web framework with WebSocket support.
+* [Tokio-Tungstenite](https://github.com/snapview/tokio-tungstenite) ⭐ 2,512 | 🐛 20 | 🌐 Rust | 📅 2026-07-11 - Tokio binding for Tungstenite, the Lightweight stream-based WebSocket implementation
 * [Tungstenite](https://github.com/snapview/tungstenite-rs) ⭐ 2,396 | 🐛 54 | 🌐 Rust | 📅 2026-07-11 - Lightweight stream-based WebSocket implementation
 * [rust-websocket](https://github.com/websockets-rs/rust-websocket) ⭐ 1,614 | 🐛 45 | 🌐 Rust | 📅 2026-08-17 - RFC6455 library providing both synchronous and asynchronous client and server.
 * [Fastwebsockets](https://github.com/denoland/fastwebsockets) ⭐ 1,135 | 🐛 19 | 🌐 Rust | 📅 2026-07-31 - A fast RFC6455 WebSocket server implementation
 * [async-tungstenite](https://github.com/sdroege/async-tungstenite) ⭐ 444 | 🐛 7 | 🌐 Rust | 📅 2026-09-20 - Async binding for Tungstenite, runtime-agnostic across async-std, tokio, and smol.
-* [wtx](https://github.com/c410-f3r/wtx) ⭐ 404 | 🐛 5 | 🌐 Rust | 📅 2026-10-11 - Client and server with encryption support.
+* [wtx](https://github.com/c410-f3r/wtx) ⭐ 403 | 🐛 5 | 🌐 Rust | 📅 2026-10-11 - Client and server with encryption support.
 * [tide-websockets](https://github.com/http-rs/tide-websockets) ⭐ 75 | 🐛 6 | 🌐 Rust | 📅 2023-05-21 - WebSocket handler for the Tide web framework.
 * [Ratchet](https://github.com/swimos/ratchet) ⭐ 60 | 🐛 11 | 🌐 Rust | 📅 2026-06-04 - Ratchet is a fast, lightweight and fully asynchronous implementation of the WebSocket protocol with support for extensions and Deflate.
 * [Websocket Core](https://github.com/bitwyre/websocket_core) ⭐ 13 | 🐛 1 | 🌐 Rust | 📅 2019-11-20 - Rust Websocket server for periodic message broadcast
@@ -306,16 +306,16 @@ A curated list of WebSockets related principles and technologies.
 
 ### Swift
 
-* [Starscream](https://github.com/daltoniam/Starscream) ⭐ 8,637 | 🐛 172 | 🌐 Swift | 📅 2024-05-16 - Conforming WebSocket (RFC 6455) client library in Swift for iOS and macOS.
-* [SwiftNIO](https://github.com/apple/swift-nio) ⭐ 8,537 | 🐛 302 | 🌐 Swift | 📅 2026-10-08 - Apple's cross-platform async event-driven network framework, a foundation for WebSocket servers.
-* [socket.io-client-swift](https://github.com/socketio/socket.io-client-swift) ⭐ 5,289 | 🐛 260 | 🌐 Swift | 📅 2024-10-01 - Official Socket.IO client for Swift.
+* [Starscream](https://github.com/daltoniam/Starscream) ⭐ 8,636 | 🐛 172 | 🌐 Swift | 📅 2024-05-16 - Conforming WebSocket (RFC 6455) client library in Swift for iOS and macOS.
+* [SwiftNIO](https://github.com/apple/swift-nio) ⭐ 8,537 | 🐛 302 | 🌐 Swift | 📅 2026-10-12 - Apple's cross-platform async event-driven network framework, a foundation for WebSocket servers.
+* [socket.io-client-swift](https://github.com/socketio/socket.io-client-swift) ⭐ 5,290 | 🐛 260 | 🌐 Swift | 📅 2024-10-01 - Official Socket.IO client for Swift.
 * [Hummingbird](https://github.com/hummingbird-project/hummingbird) ⭐ 1,891 | 🐛 19 | 🌐 Swift | 📅 2026-10-11 - Lightweight, flexible Swift server framework on SwiftNIO with WebSocket support.
 * [WebsocketKit](https://github.com/vapor/websocket-kit) ⭐ 312 | 🐛 21 | 🌐 Swift | 📅 2026-07-17 - A low level WebSocket client library built on SwiftNIO.
 * [Vapor](https://vapor.codes) - A high level web framework for Swift.
 
 ### Protocols and APIs
 
-* [TikTok-Live-Connector](https://github.com/zerodytrash/TikTok-Live-Connector/) ⭐ 2,200 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-22 - Open source TikTok LIVE stream events API, with delivery over WebSocket. The predominant & native TypeScript library for TikTok LIVE integrations.
+* [TikTok-Live-Connector](https://github.com/zerodytrash/TikTok-Live-Connector/) ⭐ 2,201 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-22 - Open source TikTok LIVE stream events API, with delivery over WebSocket. The predominant & native TypeScript library for TikTok LIVE integrations.
 * [TikTokLive](https://github.com/isaackogan/TikTokLive/) ⭐ 1,596 | 🐛 0 | 🌐 Python | 📅 2026-09-10 - A TikTok LIVE API Client built in Python, with strict mypy type safety & a copyleft license. Real-time TikTok LIVE stream events (gifts, chats, etc.) over WebSocket.
 * [TikTokLiveJava](https://github.com/jwdeveloper/TikTokLiveJava) ⭐ 210 | 🐛 1 | 🌐 Java | 📅 2026-10-10 - A TikTok LIVE API Client built in Java. Real-time TikTok LIVE stream events (gifts, chats, etc.) over WebSockets.
 * [RFC6455](https://www.rfc-editor.org/rfc/rfc6455) - The WebSocket Protocol.
@@ -364,7 +364,7 @@ A curated list of WebSockets related principles and technologies.
 
 ## Command-Line Interface (CLI) Tools
 
-* [websocketd](https://github.com/joewalnes/websocketd) ⭐ 17,463 | 🐛 1 | 🌐 Go | 📅 2026-09-07 - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
+* [websocketd](https://github.com/joewalnes/websocketd) ⭐ 17,462 | 🐛 1 | 🌐 Go | 📅 2026-09-07 - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 * [websocat](https://github.com/vi/websocat) ⭐ 8,719 | 🐛 159 | 🌐 Rust | 📅 2026-08-13 - Command-line client for WebSockets, like netcat (or curl) for ws\:// with advanced socat-like functions.
 * [wscat](https://github.com/websockets/wscat) ⭐ 2,787 | 🐛 38 | 🌐 JavaScript | 📅 2025-05-03 - WebSocket cat.
 * [wsta](https://github.com/esphen/wsta) ⭐ 632 | 🐛 12 | 🌐 Rust | 📅 2018-11-06 - A CLI development tool for WebSocket APIs.
@@ -453,4 +453,4 @@ Table of contents generated with [DocToc](https://github.com/thlorenz/doctoc) �
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
