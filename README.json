@@ -18,10 +18,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-17T20:48:33Z",
-                "open_issues": 33,
+                "open_issues": 34,
                 "owner": "centrifugal",
                 "repo": "centrifugo",
-                "stars": 11003,
+                "stars": 11005,
                 "topics": [
                   "ably",
                   "alternative",
@@ -60,7 +60,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-09T10:51:47Z",
-                "open_issues": 100,
+                "open_issues": 99,
                 "owner": "SocketCluster",
                 "repo": "socketcluster",
                 "stars": 6199,
@@ -92,7 +92,7 @@
                 "id": 57865768,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-07-06T03:33:48Z",
+                "last_commit": "2026-11-20T14:20:14Z",
                 "open_issues": 12,
                 "owner": "allinurl",
                 "repo": "gwsocket",
@@ -174,11 +174,11 @@
                 "id": 5414488,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-18T21:38:54Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-20T13:03:03Z",
+                "open_issues": 2,
                 "owner": "cesanta",
                 "repo": "mongoose",
-                "stars": 13143,
+                "stars": 13144,
                 "topics": [
                   "embedded",
                   "http",
@@ -211,7 +211,7 @@
                 "open_issues": 285,
                 "owner": "civetweb",
                 "repo": "civetweb",
-                "stars": 3482,
+                "stars": 3481,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
@@ -345,10 +345,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-19T10:18:06Z",
-                "open_issues": 59,
+                "open_issues": 60,
                 "owner": "uNetworking",
                 "repo": "uWebSockets",
-                "stars": 19028,
+                "stars": 19029,
                 "topics": [
                   "commercial",
                   "cross-platform",
@@ -377,7 +377,7 @@
                 "open_issues": 432,
                 "owner": "drogonframework",
                 "repo": "drogon",
-                "stars": 14427,
+                "stars": 14429,
                 "topics": [
                   "asynchronous-programming",
                   "drogon",
@@ -402,8 +402,8 @@
                 "id": 6376337,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-19T10:31:04Z",
-                "open_issues": 162,
+                "last_commit": "2026-11-20T14:07:20Z",
+                "open_issues": 164,
                 "owner": "pocoproject",
                 "repo": "poco",
                 "stars": 9499,
@@ -442,7 +442,7 @@
                 "open_issues": 359,
                 "owner": "oatpp",
                 "repo": "oatpp",
-                "stars": 8666,
+                "stars": 8664,
                 "topics": [
                   "c-plus-plus",
                   "cpp",
@@ -473,7 +473,7 @@
                 "open_issues": 483,
                 "owner": "zaphoyd",
                 "repo": "websocketpp",
-                "stars": 7717,
+                "stars": 7716,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
@@ -491,10 +491,10 @@
                 "language": "C",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-28T03:10:40Z",
-                "open_issues": 70,
+                "open_issues": 71,
                 "owner": "ithewei",
                 "repo": "libhv",
-                "stars": 7576,
+                "stars": 7575,
                 "topics": [
                   "curl",
                   "epoll",
@@ -529,7 +529,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-09T13:23:15Z",
-                "open_issues": 89,
+                "open_issues": 90,
                 "owner": "CrowCpp",
                 "repo": "Crow",
                 "stars": 5036,
@@ -562,7 +562,7 @@
                 "open_issues": 106,
                 "owner": "boostorg",
                 "repo": "beast",
-                "stars": 4835,
+                "stars": 4837,
                 "topics": [
                   "asio",
                   "async-programming",
@@ -604,7 +604,7 @@
                 "open_issues": 27,
                 "owner": "eidheim",
                 "repo": "Simple-WebSocket-Server",
-                "stars": 809,
+                "stars": 808,
                 "topics": [
                   "asio",
                   "client",
@@ -631,8 +631,8 @@
                 "id": 150647867,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-19T02:16:59Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-19T21:38:51Z",
+                "open_issues": 0,
                 "owner": "machinezone",
                 "repo": "IXWebSocket",
                 "stars": 801,
@@ -701,7 +701,7 @@
                 "open_issues": 559,
                 "owner": "sta",
                 "repo": "websocket-sharp",
-                "stars": 6077,
+                "stars": 6076,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
@@ -722,7 +722,7 @@
                 "open_issues": 83,
                 "owner": "statianzo",
                 "repo": "Fleck",
-                "stars": 2447,
+                "stars": 2445,
                 "topics": [
                   "c-sharp",
                   "dot-net",
@@ -769,7 +769,7 @@
                 "open_issues": 56,
                 "owner": "Marfusios",
                 "repo": "websocket-client",
-                "stars": 762,
+                "stars": 761,
                 "topics": [
                   "client",
                   "dotnet-core",
@@ -923,11 +923,11 @@
                 "id": 4081150,
                 "language": "D",
                 "license": "MIT",
-                "last_commit": "2026-11-19T15:34:00Z",
-                "open_issues": 428,
+                "last_commit": "2026-11-20T10:57:05Z",
+                "open_issues": 427,
                 "owner": "vibe-d",
                 "repo": "vibe.d",
-                "stars": 1225,
+                "stars": 1224,
                 "topics": [
                   "async",
                   "concurrency",
@@ -955,7 +955,7 @@
                 "open_issues": 53,
                 "owner": "adamdruppe",
                 "repo": "arsd",
-                "stars": 570,
+                "stars": 571,
                 "topics": [
                   "d"
                 ]
@@ -1087,11 +1087,11 @@
                 "id": 16072585,
                 "language": "Elixir",
                 "license": "MIT",
-                "last_commit": "2026-11-17T17:13:47Z",
-                "open_issues": 57,
+                "last_commit": "2026-11-20T16:15:13Z",
+                "open_issues": 58,
                 "owner": "phoenixframework",
                 "repo": "phoenix",
-                "stars": 23224,
+                "stars": 23223,
                 "topics": [
                   "api-server",
                   "distributed",
@@ -1114,11 +1114,11 @@
                 "id": 148402802,
                 "language": "Elixir",
                 "license": "MIT",
-                "last_commit": "2026-11-14T09:54:24Z",
+                "last_commit": "2026-11-20T14:36:50Z",
                 "open_issues": 38,
                 "owner": "phoenixframework",
                 "repo": "phoenix_live_view",
-                "stars": 6838,
+                "stars": 6840,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
@@ -1139,7 +1139,7 @@
                 "open_issues": 7,
                 "owner": "mtrudel",
                 "repo": "bandit",
-                "stars": 1936,
+                "stars": 1937,
                 "topics": [
                   "elixir",
                   "elixir-phoenix",
@@ -1205,11 +1205,11 @@
                 "id": 1460612,
                 "language": "Erlang",
                 "license": "ISC",
-                "last_commit": "2026-11-19T16:21:02Z",
+                "last_commit": "2026-11-20T13:04:44Z",
                 "open_issues": 61,
                 "owner": "ninenines",
                 "repo": "cowboy",
-                "stars": 7525,
+                "stars": 7523,
                 "topics": [
                   "cowboy",
                   "erlang",
@@ -1250,7 +1250,7 @@
                 "open_issues": 1,
                 "owner": "synrc",
                 "repo": "n2o",
-                "stars": 1341,
+                "stars": 1340,
                 "topics": [
                   "bert",
                   "mqtt",
@@ -1273,7 +1273,7 @@
                 "id": 12277346,
                 "language": "Erlang",
                 "license": "ISC",
-                "last_commit": "2026-11-19T16:20:59Z",
+                "last_commit": "2026-11-20T13:04:42Z",
                 "open_issues": 34,
                 "owner": "ninenines",
                 "repo": "gun",
@@ -1365,7 +1365,7 @@
                 "open_issues": 88,
                 "owner": "gorilla",
                 "repo": "websocket",
-                "stars": 24883,
+                "stars": 24882,
                 "topics": [
                   "go",
                   "golang",
@@ -1390,10 +1390,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-11-10T16:45:38Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "gobwas",
                 "repo": "ws",
-                "stars": 6493,
+                "stars": 6492,
                 "topics": [
                   "fast",
                   "go",
@@ -1420,7 +1420,7 @@
                 "open_issues": 3,
                 "owner": "eranyanay",
                 "repo": "1m-go-websockets",
-                "stars": 5988,
+                "stars": 5987,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
@@ -1441,7 +1441,7 @@
                 "open_issues": 0,
                 "owner": "googollee",
                 "repo": "go-socket.io",
-                "stars": 5764,
+                "stars": 5763,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
@@ -1458,7 +1458,7 @@
                 "id": 144590177,
                 "language": "Go",
                 "license": "ISC",
-                "last_commit": "2026-11-19T14:19:17Z",
+                "last_commit": "2026-11-20T15:21:01Z",
                 "open_issues": 84,
                 "owner": "coder",
                 "repo": "websocket",
@@ -1489,7 +1489,7 @@
                 "open_issues": 14,
                 "owner": "olahol",
                 "repo": "melody",
-                "stars": 4079,
+                "stars": 4078,
                 "topics": [
                   "example",
                   "framework",
@@ -1518,7 +1518,7 @@
                 "open_issues": 0,
                 "owner": "lesismal",
                 "repo": "nbio",
-                "stars": 2754,
+                "stars": 2753,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
@@ -1565,11 +1565,11 @@
                 "id": 122386753,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-19T16:05:32Z",
-                "open_issues": 16,
+                "last_commit": "2026-11-20T14:39:31Z",
+                "open_issues": 15,
                 "owner": "centrifugal",
                 "repo": "centrifuge",
-                "stars": 1504,
+                "stars": 1503,
                 "topics": [
                   "authentication",
                   "eventsource",
@@ -1625,8 +1625,8 @@
                 "id": 1135473716,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T05:51:42Z",
-                "open_issues": 94,
+                "last_commit": "2026-11-20T05:50:51Z",
+                "open_issues": 95,
                 "owner": "kubestellar",
                 "repo": "console",
                 "stars": 155,
@@ -1764,7 +1764,7 @@
                     "open_issues": 52,
                     "owner": "http-kit",
                     "repo": "http-kit",
-                    "stars": 2567,
+                    "stars": 2566,
                     "topics": [
                       "async",
                       "clojure",
@@ -1791,7 +1791,7 @@
                     "open_issues": 4,
                     "owner": "taoensso",
                     "repo": "sente",
-                    "stars": 1794,
+                    "stars": 1793,
                     "topics": [
                       "ajax",
                       "async",
@@ -1823,7 +1823,7 @@
                     "open_issues": 7,
                     "owner": "jarohen",
                     "repo": "chord",
-                    "stars": 443,
+                    "stars": 441,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:37:29.261Z"
@@ -1847,11 +1847,11 @@
                     "id": 1064563,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-19T09:54:52Z",
-                    "open_issues": 759,
+                    "last_commit": "2026-11-20T15:38:52Z",
+                    "open_issues": 771,
                     "owner": "netty",
                     "repo": "netty",
-                    "stars": 35067,
+                    "stars": 35066,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:37:29.261Z"
@@ -1868,11 +1868,11 @@
                     "id": 1911523,
                     "language": "Java",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-19T15:26:50Z",
-                    "open_issues": 242,
+                    "last_commit": "2026-11-20T15:23:36Z",
+                    "open_issues": 243,
                     "owner": "eclipse-vertx",
                     "repo": "vert.x",
-                    "stars": 14685,
+                    "stars": 14684,
                     "topics": [
                       "concurrency",
                       "event-loop",
@@ -1905,7 +1905,7 @@
                     "open_issues": 63,
                     "owner": "TooTallNate",
                     "repo": "Java-WebSocket",
-                    "stars": 10796,
+                    "stars": 10795,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:37:29.261Z"
@@ -1926,7 +1926,7 @@
                     "open_issues": 36,
                     "owner": "javalin",
                     "repo": "javalin",
-                    "stars": 8378,
+                    "stars": 8377,
                     "topics": [
                       "hacktoberfest",
                       "java",
@@ -1953,11 +1953,11 @@
                     "id": 2045207,
                     "language": "Java",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-19T15:50:41Z",
-                    "open_issues": 262,
+                    "last_commit": "2026-11-20T14:58:05Z",
+                    "open_issues": 269,
                     "owner": "jetty",
                     "repo": "jetty.project",
-                    "stars": 4101,
+                    "stars": 4100,
                     "topics": [
                       "eclipse",
                       "embedded",
@@ -1995,11 +1995,11 @@
                     "id": 749137,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-19T15:25:51Z",
-                    "open_issues": 2,
+                    "last_commit": "2026-11-20T16:21:54Z",
+                    "open_issues": 5,
                     "owner": "Atmosphere",
                     "repo": "atmosphere",
-                    "stars": 3836,
+                    "stars": 3835,
                     "topics": [
                       "a2a",
                       "acp",
@@ -2037,11 +2037,11 @@
                     "id": 5103785,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-20T11:09:14Z",
-                    "open_issues": 51,
+                    "last_commit": "2026-11-20T06:22:19Z",
+                    "open_issues": 48,
                     "owner": "undertow-io",
                     "repo": "undertow",
-                    "stars": 3761,
+                    "stars": 3760,
                     "topics": [
                       "ajp",
                       "hacktoberfest",
@@ -2076,7 +2076,7 @@
                     "open_issues": 93,
                     "owner": "TakahikoKawasaki",
                     "repo": "nv-websocket-client",
-                    "stars": 2050,
+                    "stars": 2049,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:37:29.261Z"
@@ -2097,7 +2097,7 @@
                     "open_issues": 47,
                     "owner": "webbit",
                     "repo": "webbit",
-                    "stars": 820,
+                    "stars": 818,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:37:29.261Z"
@@ -2142,11 +2142,11 @@
                     "id": 5152285,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-19T15:01:41Z",
-                    "open_issues": 130,
+                    "last_commit": "2026-11-20T15:53:25Z",
+                    "open_issues": 129,
                     "owner": "lysine-dev",
                     "repo": "okhttp",
-                    "stars": 47117,
+                    "stars": 47115,
                     "topics": [
                       "android",
                       "graalvm",
@@ -2168,11 +2168,11 @@
                     "id": 40136600,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-19T16:11:27Z",
-                    "open_issues": 137,
+                    "last_commit": "2026-11-20T16:24:18Z",
+                    "open_issues": 135,
                     "owner": "ktorio",
                     "repo": "ktor",
-                    "stars": 14576,
+                    "stars": 14575,
                     "topics": [
                       "async",
                       "asynchronous",
@@ -2199,7 +2199,7 @@
                     "open_issues": 108,
                     "owner": "Tinder",
                     "repo": "Scarlet",
-                    "stars": 3256,
+                    "stars": 3255,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:37:29.261Z"
@@ -2223,7 +2223,7 @@
                     "id": 3692188,
                     "language": "Scala",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-19T02:58:55Z",
+                    "last_commit": "2026-11-20T13:06:25Z",
                     "open_issues": 372,
                     "owner": "http4s",
                     "repo": "http4s",
@@ -2252,7 +2252,7 @@
                     "id": 339799160,
                     "language": "Scala",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-19T00:14:29Z",
+                    "last_commit": "2026-11-20T09:31:46Z",
                     "open_issues": 68,
                     "owner": "zio",
                     "repo": "zio-http",
@@ -2280,8 +2280,8 @@
                     "id": 559858016,
                     "language": "Scala",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-19T09:15:04Z",
-                    "open_issues": 81,
+                    "last_commit": "2026-11-20T15:02:07Z",
+                    "open_issues": 66,
                     "owner": "apache",
                     "repo": "pekko-http",
                     "stars": 199,
@@ -2344,8 +2344,8 @@
                 "id": 75249739,
                 "language": "Julia",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-19T16:19:25Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-19T17:50:10Z",
+                "open_issues": 4,
                 "owner": "JuliaWeb",
                 "repo": "HTTP.jl",
                 "stars": 691,
@@ -2428,7 +2428,7 @@
                 "open_issues": 23,
                 "owner": "uNetworking",
                 "repo": "uWebSockets.js",
-                "stars": 9196,
+                "stars": 9195,
                 "topics": [
                   "commercial",
                   "http",
@@ -2493,7 +2493,7 @@
                 "open_issues": 141,
                 "owner": "soketi",
                 "repo": "soketi",
-                "stars": 5636,
+                "stars": 5635,
                 "topics": [
                   "broadcasting",
                   "cloudflare",
@@ -2531,7 +2531,7 @@
                 "open_issues": 74,
                 "owner": "theturtle32",
                 "repo": "WebSocket-Node",
-                "stars": 3781,
+                "stars": 3780,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
@@ -2573,7 +2573,7 @@
                 "open_issues": 21,
                 "owner": "sockjs",
                 "repo": "sockjs-node",
-                "stars": 2101,
+                "stars": 2100,
                 "topics": [
                   "javascript",
                   "node",
@@ -2601,7 +2601,7 @@
                 "open_issues": 2,
                 "owner": "enisdenjo",
                 "repo": "graphql-ws",
-                "stars": 1874,
+                "stars": 1873,
                 "topics": [
                   "apollo",
                   "client",
@@ -2682,7 +2682,7 @@
                 "open_issues": 16,
                 "owner": "elpheria",
                 "repo": "rpc-websockets",
-                "stars": 627,
+                "stars": 626,
                 "topics": [
                   "aws",
                   "chat",
@@ -2745,7 +2745,7 @@
                 "open_issues": 6,
                 "owner": "vitalets",
                 "repo": "websocket-as-promised",
-                "stars": 603,
+                "stars": 602,
                 "topics": [
                   "javascript",
                   "nodejs",
@@ -2836,7 +2836,7 @@
                 "open_issues": 0,
                 "owner": "beyondcode",
                 "repo": "laravel-websockets",
-                "stars": 5057,
+                "stars": 5055,
                 "topics": [
                   "hacktoberfest",
                   "laravel",
@@ -2863,7 +2863,7 @@
                 "open_issues": 5,
                 "owner": "bloatless",
                 "repo": "php-websocket",
-                "stars": 588,
+                "stars": 587,
                 "topics": [
                   "php",
                   "websocket-server",
@@ -2913,10 +2913,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-18T19:14:19Z",
-                "open_issues": 48,
+                "open_issues": 49,
                 "owner": "fastapi",
                 "repo": "fastapi",
-                "stars": 104905,
+                "stars": 104973,
                 "topics": [
                   "api",
                   "async",
@@ -2948,11 +2948,11 @@
                 "id": 13258039,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T11:08:43Z",
-                "open_issues": 328,
+                "last_commit": "2026-11-20T16:23:46Z",
+                "open_issues": 330,
                 "owner": "aio-libs",
                 "repo": "aiohttp",
-                "stars": 16621,
+                "stars": 16620,
                 "topics": [
                   "aiohttp",
                   "async",
@@ -2982,7 +2982,7 @@
                 "open_issues": 1,
                 "owner": "python-websockets",
                 "repo": "websockets",
-                "stars": 5746,
+                "stars": 5745,
                 "topics": [
                   "python",
                   "python3",
@@ -3011,7 +3011,7 @@
                 "open_issues": 0,
                 "owner": "miguelgrinberg",
                 "repo": "python-socketio",
-                "stars": 4370,
+                "stars": 4369,
                 "topics": [
                   "asyncio",
                   "eventlet",
@@ -3044,7 +3044,7 @@
                 "open_issues": 42,
                 "owner": "websocket-client",
                 "repo": "websocket-client",
-                "stars": 3711,
+                "stars": 3710,
                 "topics": [
                   "python",
                   "rfc-6455",
@@ -3072,7 +3072,7 @@
                 "open_issues": 169,
                 "owner": "crossbario",
                 "repo": "autobahn-python",
-                "stars": 2540,
+                "stars": 2539,
                 "topics": [
                   "autobahn",
                   "pubsub",
@@ -3101,7 +3101,7 @@
                 "open_issues": 51,
                 "owner": "cirospaciari",
                 "repo": "socketify.py",
-                "stars": 1714,
+                "stars": 1713,
                 "topics": [
                   "asgi",
                   "asgi-server",
@@ -3143,7 +3143,7 @@
                 "open_issues": 40,
                 "owner": "Pithikos",
                 "repo": "python-websocket-server",
-                "stars": 1171,
+                "stars": 1170,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
@@ -3272,11 +3272,11 @@
                 "id": 14812739,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-11-18T22:19:07Z",
-                "open_issues": 280,
+                "last_commit": "2026-11-19T18:32:27Z",
+                "open_issues": 279,
                 "owner": "libuv",
                 "repo": "libuv",
-                "stars": 27338,
+                "stars": 27340,
                 "topics": [
                   "asynchronous",
                   "deep-io",
@@ -3313,7 +3313,7 @@
                 "open_issues": 200,
                 "owner": "websocket-rails",
                 "repo": "websocket-rails",
-                "stars": 1713,
+                "stars": 1712,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
@@ -3334,7 +3334,7 @@
                 "open_issues": 26,
                 "owner": "igrigorik",
                 "repo": "em-websocket",
-                "stars": 1687,
+                "stars": 1686,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
@@ -3376,7 +3376,7 @@
                 "open_issues": 16,
                 "owner": "rage-rb",
                 "repo": "rage",
-                "stars": 1454,
+                "stars": 1453,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
@@ -3418,7 +3418,7 @@
                 "open_issues": 6,
                 "owner": "faye",
                 "repo": "faye-websocket-ruby",
-                "stars": 1061,
+                "stars": 1060,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
@@ -3542,7 +3542,7 @@
                 "open_issues": 110,
                 "owner": "tokio-rs",
                 "repo": "axum",
-                "stars": 27871,
+                "stars": 27886,
                 "topics": [
                   "http",
                   "routing",
@@ -3567,7 +3567,7 @@
                 "open_issues": 234,
                 "owner": "seanmonstar",
                 "repo": "warp",
-                "stars": 10393,
+                "stars": 10392,
                 "topics": [
                   "framework",
                   "http",
@@ -3589,11 +3589,11 @@
                 "id": 237348733,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T16:48:40Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-19T23:54:10Z",
+                "open_issues": 3,
                 "owner": "ntex-rs",
                 "repo": "ntex",
-                "stars": 2554,
+                "stars": 2553,
                 "topics": [
                   "async",
                   "http",
@@ -3620,7 +3620,7 @@
                 "open_issues": 20,
                 "owner": "snapview",
                 "repo": "tokio-tungstenite",
-                "stars": 2525,
+                "stars": 2524,
                 "topics": [
                   "asynchronous",
                   "tokio",
@@ -3647,7 +3647,7 @@
                 "open_issues": 60,
                 "owner": "snapview",
                 "repo": "tungstenite-rs",
-                "stars": 2407,
+                "stars": 2406,
                 "topics": [
                   "rust",
                   "websockets"
@@ -3671,7 +3671,7 @@
                 "open_issues": 45,
                 "owner": "websockets-rs",
                 "repo": "rust-websocket",
-                "stars": 1615,
+                "stars": 1614,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
@@ -3692,7 +3692,7 @@
                 "open_issues": 19,
                 "owner": "denoland",
                 "repo": "fastwebsockets",
-                "stars": 1140,
+                "stars": 1139,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
@@ -3713,7 +3713,7 @@
                 "open_issues": 8,
                 "owner": "sdroege",
                 "repo": "async-tungstenite",
-                "stars": 447,
+                "stars": 446,
                 "topics": [
                   "async",
                   "async-std",
@@ -3744,7 +3744,7 @@
                 "open_issues": 5,
                 "owner": "c410-f3r",
                 "repo": "wtx",
-                "stars": 407,
+                "stars": 406,
                 "topics": [
                   "api",
                   "certificate",
@@ -3862,7 +3862,7 @@
                 "open_issues": 172,
                 "owner": "daltoniam",
                 "repo": "Starscream",
-                "stars": 8641,
+                "stars": 8640,
                 "topics": [
                   "osx",
                   "protocol",
@@ -3923,7 +3923,7 @@
                 "open_issues": 260,
                 "owner": "socketio",
                 "repo": "socket.io-client-swift",
-                "stars": 5289,
+                "stars": 5288,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:37:29.261Z"
@@ -3944,7 +3944,7 @@
                 "open_issues": 13,
                 "owner": "hummingbird-project",
                 "repo": "hummingbird",
-                "stars": 1912,
+                "stars": 1911,
                 "topics": [
                   "http",
                   "http-server",
@@ -4146,7 +4146,7 @@
             "open_issues": 97,
             "owner": "robtaussig",
             "repo": "react-use-websocket",
-            "stars": 1883,
+            "stars": 1881,
             "topics": []
           },
           "first_seen": "2026-08-28T19:37:29.261Z"
@@ -4198,7 +4198,7 @@
             "open_issues": 1,
             "owner": "joewalnes",
             "repo": "websocketd",
-            "stars": 17457,
+            "stars": 17456,
             "topics": [
               "proxy",
               "websocket-server",
@@ -4223,7 +4223,7 @@
             "open_issues": 157,
             "owner": "vi",
             "repo": "websocat",
-            "stars": 8761,
+            "stars": 8760,
             "topics": [
               "cli",
               "command-line",
@@ -4277,7 +4277,7 @@
             "open_issues": 11,
             "owner": "eliihen",
             "repo": "wsta",
-            "stars": 633,
+            "stars": 632,
             "topics": [
               "cli",
               "developer-tools",
@@ -4324,7 +4324,7 @@
             "open_issues": 7,
             "owner": "thehowl",
             "repo": "claws",
-            "stars": 316,
+            "stars": 315,
             "topics": [
               "cli",
               "command-line-app",
@@ -4464,7 +4464,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T16:51:12.291Z",
+    "last_updated": "2026-11-20T16:25:56.763Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Websocket libraries and resources.",
@@ -4476,7 +4476,7 @@
       "open_issues": 13,
       "owner": "facundofarias",
       "repo": "awesome-websockets",
-      "stars": 1862,
+      "stars": 1861,
       "topics": [
         "html5-websockets",
         "node-websocket",
